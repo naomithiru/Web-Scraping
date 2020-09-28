@@ -1,0 +1,2082 @@
+,Locality,Type of Property,Sub Type,Price,Type of Sale,No of Rooms,Area(sqft),Equipped(Y/N),Furnished(Y/N),Open Fire(Y/N),Terrace Area,Garden Area,Surface of the Land(sqft),Surface area of the Plot(sqft),No of Facades,Simming Pool(Y/N),State of the Building
+0,Woluwe-Saint-Pierre,House for sale,,"€ 990,000",B,13,,,None,None,,None,,,2,None,None
+1,Hamoir,House for sale,,"€ 195,000",S,6,,,None,None,,None,,,None,None,None
+2,Tournai,Ecobo - Chaussée de Douai,,None,Y,None,,None,None,None,None,None,,,None,None,None
+3,Hamoir,Mixed-use building for sale,,"€ 295,000",S,6,,,None,None,,None,,,1,None,None
+4,Lasne,Bungalow for sale,,"€ 395,000",S,None,,,None,None,,None,,,4,None,None
+5,Marchin,House for sale,,None,S,9,,,None,None,,None,,,2,None,None
+6,Nivelles,Mansion for sale,,None,F,8,,,None,None,,None,,,2,None,None
+7,Brugge,Exceptional property for sale,,None,C,None,,,None,None,,None,,,None,None,None
+8,Oedelem,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+9,Waterloo,Villa for sale,,None,B,None,,,None,None,,None,,,4,None,None
+10,Ixelles,Mansion for sale,,None,S,None,,,None,None,,None,,,None,None,None
+11,Villers-le-Bouillet,House for sale,,"€ 279,000",S,51,,,None,None,,None,,,1,None,None
+12,Roosdaal Onze-Lieve-Vrouw-Lombeek,De Molens woningen,,None,None,None,,None,None,None,None,None,,,None,None,None
+13,Uccle,"""Moulin Blanc"" Villas",,None,None,None,,None,None,None,None,None,,,None,None,None
+14,Engis,House for sale,,"€ 245,000",B,8,,,None,None,,None,,,4,None,None
+15,Liège,Apartment block for sale,,"€ 250,000",B,18,,,None,None,,None,,,2,None,None
+16,Borgloon,Hof van Sprolant,,None,Y,None,,None,None,None,None,None,,,None,None,None
+17,None,WARICHET/SEUMAY,,None,None,None,,None,None,None,None,None,,,None,None,None
+18,Kraainem,Villa for sale,,None,B,27,,,None,None,,None,,,4,None,None
+19,Kraainem,House for sale,,None,S,9,,,None,None,,None,,,1,None,None
+20,Leglise - Traimont,Maison neuves à Traimont,,None,None,None,,,None,None,None,None,,,None,None,None
+21,None,Den Dreef,,None,Y,None,,None,None,None,None,None,,,None,None,None
+22,Wezembeek-Oppem,House for sale,,"€ 580,000",B,None,,,None,None,,None,,,4,None,None
+23,Uccle,House for sale,,"€ 2,950,000",F,25,,,None,None,,None,,,None,None,None
+24,Elsene,Mansion for sale,,None,B,None,,,None,None,,None,,,2,None,None
+25,Heverlee,House for sale,,None,S,11,,,None,None,,None,,,1,None,None
+26,Woluwe-Saint-Pierre,House for sale,,None,B,9,,,None,None,,None,,,4,None,None
+27,Marchin,House for sale,,None,F,None,,,None,None,,None,,,Link to the virtual visit,None,None
+28,Woluwe-Saint-Lambert,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+29,Etalle,Exceptional property for sale,,None,S,None,,,None,None,,None,,,1,None,None
+30,Woluwe-Saint-Pierre,House for sale,,"€ 990,000",B,13,,,None,None,,None,,,2,None,None
+31,Hamoir,House for sale,,"€ 195,000",S,6,,,None,None,,None,,,None,None,None
+32,Tournai,Ecobo - Chaussée de Douai,,None,Y,None,,None,None,None,None,None,,,None,None,None
+33,Hamoir,Mixed-use building for sale,,"€ 295,000",S,6,,,None,None,,None,,,1,None,None
+34,Lasne,Bungalow for sale,,"€ 395,000",S,None,,,None,None,,None,,,4,None,None
+35,Marchin,House for sale,,None,S,9,,,None,None,,None,,,2,None,None
+36,Nivelles,Mansion for sale,,None,F,8,,,None,None,,None,,,2,None,None
+37,Brugge,Exceptional property for sale,,None,C,None,,,None,None,,None,,,None,None,None
+38,Oedelem,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+39,Waterloo,Villa for sale,,None,B,None,,,None,None,,None,,,4,None,None
+40,Ixelles,Mansion for sale,,None,S,None,,,None,None,,None,,,None,None,None
+41,Villers-le-Bouillet,House for sale,,"€ 279,000",S,51,,,None,None,,None,,,1,None,None
+42,Roosdaal Onze-Lieve-Vrouw-Lombeek,De Molens woningen,,None,None,None,,None,None,None,None,None,,,None,None,None
+43,Uccle,"""Moulin Blanc"" Villas",,None,None,None,,None,None,None,None,None,,,None,None,None
+44,Engis,House for sale,,"€ 245,000",B,8,,,None,None,,None,,,4,None,None
+45,Liège,Apartment block for sale,,"€ 250,000",B,18,,,None,None,,None,,,2,None,None
+46,Borgloon,Hof van Sprolant,,None,Y,None,,None,None,None,None,None,,,None,None,None
+47,None,WARICHET/SEUMAY,,None,None,None,,None,None,None,None,None,,,None,None,None
+48,Kraainem,Villa for sale,,None,B,27,,,None,None,,None,,,4,None,None
+49,Kraainem,House for sale,,None,S,9,,,None,None,,None,,,1,None,None
+50,Leglise - Traimont,Maison neuves à Traimont,,None,None,None,,,None,None,None,None,,,None,None,None
+51,None,Den Dreef,,None,Y,None,,None,None,None,None,None,,,None,None,None
+52,Wezembeek-Oppem,House for sale,,"€ 580,000",B,None,,,None,None,,None,,,4,None,None
+53,Uccle,House for sale,,"€ 2,950,000",F,25,,,None,None,,None,,,None,None,None
+54,Elsene,Mansion for sale,,None,B,None,,,None,None,,None,,,2,None,None
+55,Heverlee,House for sale,,None,S,11,,,None,None,,None,,,1,None,None
+56,Woluwe-Saint-Pierre,House for sale,,None,B,9,,,None,None,,None,,,4,None,None
+57,Marchin,House for sale,,None,F,None,,,None,None,,None,,,Link to the virtual visit,None,None
+58,Woluwe-Saint-Lambert,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+59,Etalle,Exceptional property for sale,,None,S,None,,,None,None,,None,,,1,None,None
+60,Hoboken,House for sale,,"€ 329,000",F,None,,,None,None,,None,,,2,None,None
+61,Schaerbeek,House for sale,,None,S,11,,,None,None,,None,,,None,None,None
+62,Uccle,House for sale,,None,S,9,,,None,None,,None,,,None,None,None
+63,Forest,House for sale,,None,S,9,,,None,None,,None,,,None,None,None
+64,Forest,Mixed-use building for sale,,None,S,None,,,None,None,,None,,,None,None,None
+65,Oreye,Villa for sale,,None,B,10,,,None,None,,None,,,4,None,None
+66,Forest,House for sale,,"€ 495,000",F,None,,,None,None,,None,,,None,None,None
+67,Huldenberg,Villa for sale,,"€ 500,000",F,8,,,None,None,None,None,,,4,None,None
+68,Asse,Villa for sale,,None,S,55,,,None,None,,None,,,1,None,None
+69,Ixelles,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+70,Beersel Alsemberg,House for sale,,"€ 299,000",F,None,,,None,None,,None,,,2,None,None
+71,Beersel Dworp,House for sale,,"€ 299,000",F,None,,,None,None,,None,,,2,None,None
+72,Beersel Huizingen,House for sale,,"€ 299,000",F,None,,,None,None,,None,,,2,None,None
+73,NeufchÃteau,Exceptional property for sale,,"€ 345,000",F,9,,,None,None,,None,,,None,None,None
+74,SINT-MARIA-LIERDE,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+75,Trooz,House for sale,,None,S,None,,,None,None,,None,,,None,None,None
+76,CHAPELLE-À-WATTINES,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+77,Wavre,Country cottage for sale,,None,B,13,,,None,None,,None,,,1,None,None
+78,Herstal,House for sale,,"€ 189,000",S,56,,,None,None,,None,,,1,None,None
+79,Arlon,House for sale,,"€ 290,000",B,7,,,None,None,,None,,,4,None,None
+80,Kraainem,House for sale,,None,F,11,,,None,None,,None,,,2,None,None
+81,Woluwe-Saint-Pierre,Villa for sale,,"m²
+square meters",B,17,,,None,None,,None,,,4,None,None
+82,Schepdaal,Exceptional property for sale,,None,O,None,,,None,None,,None,,,None,None,None
+83,Villers-le-Bouillet,House for sale,,"€ 225,000",S,7,,,None,None,,None,,,Link to the virtual visit,None,None
+84,Lissewege,House for sale,,"€ 545,000",C,9,,,None,None,,None,,,None,None,None
+85,Sprimont,House for sale,,None,B,77,,,None,None,,None,,,1,None,None
+86,Neufchateau,House for sale,,"€ 85,000",S,7,,,None,None,None,None,,,None,None,None
+87,GIJZELBRECHTEGEM,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+88,St-Michiels,House for sale,,None,S,8,,,None,None,,None,,,1,None,None
+89,Bastogne,Exceptional property for sale,,None,S,16,,,None,None,,None,,,2,None,None
+90,Hoboken,House for sale,,"€ 329,000",F,None,,,None,None,,None,,,2,None,None
+91,Schaerbeek,House for sale,,None,S,11,,,None,None,,None,,,None,None,None
+92,Uccle,House for sale,,None,S,9,,,None,None,,None,,,None,None,None
+93,Forest,House for sale,,None,S,9,,,None,None,,None,,,None,None,None
+94,Forest,Mixed-use building for sale,,None,S,None,,,None,None,,None,,,None,None,None
+95,Oreye,Villa for sale,,None,B,10,,,None,None,,None,,,4,None,None
+96,Forest,House for sale,,"€ 495,000",F,None,,,None,None,,None,,,None,None,None
+97,Huldenberg,Villa for sale,,"€ 500,000",F,8,,,None,None,None,None,,,4,None,None
+98,Asse,Villa for sale,,None,S,55,,,None,None,,None,,,1,None,None
+99,Ixelles,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+,Locality,Type of Property,Sub Type,Price,Type of Sale,No of Rooms,Area(sqft),Equipped(Y/N),Furnished(Y/N),Open Fire(Y/N),Terrace Area,Garden Area,Surface of the Land(sqft),Surface area of the Plot(sqft),No of Facades,Simming Pool(Y/N),State of the Building
+0,Beersel Dworp,House for sale,,"€ 299,000",F,None,,,None,None,,None,,,2,None,None
+1,Beersel Huizingen,House for sale,,"€ 299,000",F,None,,,None,None,,None,,,2,None,None
+2,NeufchÃteau,Exceptional property for sale,,"€ 345,000",F,9,,,None,None,,None,,,None,None,None
+3,SINT-MARIA-LIERDE,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+4,Trooz,House for sale,,None,S,None,,,None,None,,None,,,None,None,None
+5,CHAPELLE-À-WATTINES,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+6,Wavre,Country cottage for sale,,None,B,13,,,None,None,,None,,,1,None,None
+7,Herstal,House for sale,,"€ 189,000",S,56,,,None,None,,None,,,1,None,None
+8,Arlon,House for sale,,"€ 290,000",B,7,,,None,None,,None,,,4,None,None
+9,Kraainem,House for sale,,None,F,11,,,None,None,,None,,,2,None,None
+10,Woluwe-Saint-Pierre,Villa for sale,,"m²
+square meters",B,17,,,None,None,,None,,,4,None,None
+11,Schepdaal,Exceptional property for sale,,None,O,None,,,None,None,,None,,,None,None,None
+12,Villers-le-Bouillet,House for sale,,"€ 225,000",S,7,,,None,None,,None,,,Link to the virtual visit,None,None
+13,Lissewege,House for sale,,"€ 545,000",C,9,,,None,None,,None,,,None,None,None
+14,Sprimont,House for sale,,None,B,77,,,None,None,,None,,,1,None,None
+15,Neufchateau,House for sale,,"€ 85,000",S,7,,,None,None,None,None,,,None,None,None
+16,GIJZELBRECHTEGEM,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+17,St-Michiels,House for sale,,None,S,8,,,None,None,,None,,,1,None,None
+18,Bastogne,Exceptional property for sale,,None,S,16,,,None,None,,None,,,2,None,None
+19,Huy,House for sale,,"€ 105,000",F,None,,,None,None,,None,,,None,None,None
+20,Wezembeek-Oppem,House for sale,,None,B,8,,,None,None,,None,,,None,None,None
+21,Bastogne,House for sale,,None,F,None,,,None,None,,None,,,4,None,None
+22,GIJZELBRECHTEGEM,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+23,Ekeren,House for sale,,"€ 279,000",F,None,,,None,None,None,None,,,None,None,None
+24,Kessel-Lo,House for sale,,"€ 310,000",F,None,,,None,None,,None,,,None,None,None
+25,Leuven,House for sale,,"€ 370,000",C,None,,,None,None,,None,,,None,None,None
+26,Ingelmunster,House for sale,,"€ 375,000",F,8,,,None,None,,None,,,3,None,None
+27,Strombeek-Bever,Town-house for sale,,None,C,5,,,None,None,,None,,,None,None,None
+28,Flobecq,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+29,Brugge,Exceptional property for sale,,None,C,9,,,None,None,,None,,,None,None,None
+30,Tervuren,House for sale,,"€ 749,000",S,9,,,None,None,,None,,,1,None,None
+31,Tervuren,Villa for sale,,None,C,6,,,None,None,,None,,,None,None,None
+32,Woluwe-St-Lambert,House for sale,,None,F,23,,,None,None,,None,,,1,None,None
+33,Hannut Bertrée,Villa for sale,,None,S,7,,,None,None,,None,,,2,None,None
+34,Overijse,Villa for sale,,"m²
+square meters",S,7,,,None,None,,None,,,1,None,None
+35,Dilbeek,Villa for sale,,"m²
+square meters",B,None,,,None,None,,None,,,4,None,None
+36,Woluwe-Saint-Pierre,House for sale,,"€ 595,000",B,8,,,None,None,,None,,,2,None,None
+37,Linkebeek,Town-house for sale,,None,S,7,,,None,None,,None,,,2,None,None
+38,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+39,Chaudfontaine Embourg,House for sale,,"€ 159,000",F,16,,,None,None,,None,,,Link to the virtual visit,None,None
+40,Huy,House for sale,,"€ 225,000",F,None,,,None,None,,None,,,2,None,None
+41,Herstal,House for sale,,"€ 229,000",F,None,,,None,None,,None,,,None,None,None
+42,FLÉMALLE-HAUTE,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+43,SINT-GILLIS-WAAS,Town-house for sale,,None,F,None,,,None,None,,None,,,None,None,None
+44,Amay,Mixed-use building for sale,,"€ 465,000",F,13,,,None,None,,None,,,None,None,None
+45,Wilrijk,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+46,Kortrijk,Villa for sale,,None,F,None,,,None,None,,None,,,2,None,None
+47,Ronse,House for sale,,"€ 159,500",S,5,,,None,None,,None,,,None,None,None
+48,Woluwe-Saint-Pierre,Apartment block for sale,,None,F,None,,,None,None,,None,,,2,None,None
+49,Huy,House for sale,,"€ 105,000",F,None,,,None,None,,None,,,None,None,None
+50,Wezembeek-Oppem,House for sale,,None,B,8,,,None,None,,None,,,None,None,None
+51,Bastogne,House for sale,,None,F,None,,,None,None,,None,,,4,None,None
+52,GIJZELBRECHTEGEM,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+53,Ekeren,House for sale,,"€ 279,000",F,None,,,None,None,None,None,,,None,None,None
+54,Kessel-Lo,House for sale,,"€ 310,000",F,None,,,None,None,,None,,,None,None,None
+55,Leuven,House for sale,,"€ 370,000",C,None,,,None,None,,None,,,None,None,None
+56,Ingelmunster,House for sale,,"€ 375,000",F,8,,,None,None,,None,,,3,None,None
+57,Strombeek-Bever,Town-house for sale,,None,C,5,,,None,None,,None,,,None,None,None
+58,Flobecq,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+59,Brugge,Exceptional property for sale,,None,C,9,,,None,None,,None,,,None,None,None
+60,Tervuren,House for sale,,"€ 749,000",S,9,,,None,None,,None,,,1,None,None
+61,Tervuren,Villa for sale,,None,C,6,,,None,None,,None,,,None,None,None
+62,Woluwe-St-Lambert,House for sale,,None,F,23,,,None,None,,None,,,1,None,None
+63,Hannut Bertrée,Villa for sale,,None,S,7,,,None,None,,None,,,2,None,None
+64,Overijse,Villa for sale,,"m²
+square meters",S,7,,,None,None,,None,,,1,None,None
+65,Dilbeek,Villa for sale,,"m²
+square meters",B,None,,,None,None,,None,,,4,None,None
+66,Woluwe-Saint-Pierre,House for sale,,"€ 595,000",B,8,,,None,None,,None,,,2,None,None
+67,Linkebeek,Town-house for sale,,None,S,7,,,None,None,,None,,,2,None,None
+68,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+69,Chaudfontaine Embourg,House for sale,,"€ 159,000",F,16,,,None,None,,None,,,Link to the virtual visit,None,None
+70,Huy,House for sale,,"€ 225,000",F,None,,,None,None,,None,,,2,None,None
+71,Herstal,House for sale,,"€ 229,000",F,None,,,None,None,,None,,,None,None,None
+72,FLÉMALLE-HAUTE,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+73,SINT-GILLIS-WAAS,Town-house for sale,,None,F,None,,,None,None,,None,,,None,None,None
+74,Amay,Mixed-use building for sale,,"€ 465,000",F,13,,,None,None,,None,,,None,None,None
+75,Wilrijk,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+76,Kortrijk,Villa for sale,,None,F,None,,,None,None,,None,,,2,None,None
+77,Ronse,House for sale,,"€ 159,500",S,5,,,None,None,,None,,,None,None,None
+78,Woluwe-Saint-Pierre,Apartment block for sale,,None,F,None,,,None,None,,None,,,2,None,None
+79,Woluwe-Saint-Pierre,Villa for sale,,"€ 980,000",B,9,,,None,None,,None,,,4,None,None
+80,Ronse,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+81,Woluwe-Saint-Lambert,House for sale,,"€ 590,000",C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+82,Liege,House for sale,,"€ 225,000",S,9,,,None,None,,None,,,Link to the virtual visit,None,None
+83,Remicourt Hodeige,House for sale,,None,S,6,,,None,None,,None,,,1,None,None
+84,Gent,Nieuwbouwwoningen Dockside Gardens Gent,,None,Y,None,,None,None,None,None,None,,,None,None,None
+85,Brugge,House for sale,,"€ 545,000",C,9,,,None,None,,None,,,None,None,None
+86,Oudenaarde,Villa for sale,,"€ 695,000",None,None,,,None,None,None,None,,,None,None,None
+87,Beigem,Villa for sale,,None,B,8,,,None,None,,None,,,2,None,None
+88,Woluwe-Saint-Pierre,Villa for sale,,"m²
+square meters",B,13,,,None,None,,None,,,4,None,None
+89,Saint-Georges-sur-Meuse,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+90,BAASRODE,House for sale,,"€ 349,000",C,None,,,None,None,None,None,,,None,None,None
+91,Berchem,House for sale,,"€ 429,000",F,None,,,None,None,,None,,,None,None,None
+92,Kuurne,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+93,Tervuren,Exceptional property for sale,,"m²
+square meters",S,9,,,None,None,,None,,,1,None,None
+94,Etterbeek,Town-house for sale,,"kWh/m²
+kilowatt hour per square meters",None,None,,,None,None,,None,,,None,None,None
+95,SINT-GENESIUS-RODE,Villa for sale,,"€ 795,000",C,10,,,None,None,None,None,,,Link to the virtual visit,None,None
+96,Gent,House for sale,,None,F,8,,,None,None,,None,,,5,None,None
+97,Gooik,House for sale,,"€ 495,000",None,None,,,None,None,None,None,,,None,None,None
+98,Molenbeek-Saint-Jean,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+,Locality,Type of Property,Sub Type,Price,Type of Sale,No of Rooms,Area(sqft),Equipped(Y/N),Furnished(Y/N),Open Fire(Y/N),Terrace Area,Garden Area,Surface of the Land(sqft),Surface area of the Plot(sqft),No of Facades,Simming Pool(Y/N),State of the Building
+0,SINT-GILLIS-DENDERMONDE,House for sale,,"€ 279,000",F,None,,,None,None,,None,,,None,None,None
+1,Anzegem,Other properties for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+2,Anzegem,Villa for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+3,Libin,House for sale,,"€ 329,000",S,21,,,None,None,,None,,,3,None,None
+4,Bilzen,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+5,Libin Redu,Exceptional property for sale,,"m²
+square meters",S,13,,,None,None,,None,,,2,None,None
+6,Tiegem,Villa for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+7,Boechout,House for sale,,"€ 239,000",F,None,,,None,None,,None,,,None,None,None
+8,Saint-Hubert,Mixed-use building for sale,,"€ 89,000",S,None,,,None,None,None,None,,,None,None,None
+9,Woluwe-Saint-Pierre,Villa for sale,,"€ 980,000",B,9,,,None,None,,None,,,4,None,None
+10,Ronse,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+11,Woluwe-Saint-Lambert,House for sale,,"€ 590,000",C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+12,Liege,House for sale,,"€ 225,000",S,9,,,None,None,,None,,,Link to the virtual visit,None,None
+13,Remicourt Hodeige,House for sale,,None,S,6,,,None,None,,None,,,1,None,None
+14,Gent,Nieuwbouwwoningen Dockside Gardens Gent,,None,Y,None,,None,None,None,None,None,,,None,None,None
+15,Brugge,House for sale,,"€ 545,000",C,9,,,None,None,,None,,,None,None,None
+16,Oudenaarde,Villa for sale,,"€ 695,000",None,None,,,None,None,None,None,,,None,None,None
+17,Beigem,Villa for sale,,None,B,8,,,None,None,,None,,,2,None,None
+18,Woluwe-Saint-Pierre,Villa for sale,,"m²
+square meters",B,13,,,None,None,,None,,,4,None,None
+19,Saint-Georges-sur-Meuse,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+20,BAASRODE,House for sale,,"€ 349,000",C,None,,,None,None,None,None,,,None,None,None
+21,Berchem,House for sale,,"€ 429,000",F,None,,,None,None,,None,,,None,None,None
+22,Kuurne,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+23,Tervuren,Exceptional property for sale,,"m²
+square meters",S,9,,,None,None,,None,,,1,None,None
+24,Etterbeek,Town-house for sale,,"kWh/m²
+kilowatt hour per square meters",None,None,,,None,None,,None,,,None,None,None
+25,SINT-GENESIUS-RODE,Villa for sale,,"€ 795,000",C,10,,,None,None,None,None,,,Link to the virtual visit,None,None
+26,Gent,House for sale,,None,F,8,,,None,None,,None,,,5,None,None
+27,Gooik,House for sale,,"€ 495,000",None,None,,,None,None,None,None,,,None,None,None
+28,Molenbeek-Saint-Jean,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+29,Donceel Limont,Bungalow for sale,,None,S,46,,,None,None,,None,,,1,None,None
+30,SINT-GILLIS-DENDERMONDE,House for sale,,"€ 279,000",F,None,,,None,None,,None,,,None,None,None
+31,Anzegem,Other properties for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+32,Anzegem,Villa for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+33,Libin,House for sale,,"€ 329,000",S,21,,,None,None,,None,,,3,None,None
+34,Bilzen,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+35,Libin Redu,Exceptional property for sale,,"m²
+square meters",S,13,,,None,None,,None,,,2,None,None
+36,Tiegem,Villa for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+37,Boechout,House for sale,,"€ 239,000",F,None,,,None,None,,None,,,None,None,None
+38,Saint-Hubert,Mixed-use building for sale,,"€ 89,000",S,None,,,None,None,None,None,,,None,None,None
+39,Ronse,House for sale,,"€ 124,900",F,None,,,None,None,,None,,,None,None,None
+40,Liège Grivegnée,Mixed-use building for sale,,"m²
+square meters",B,None,,,None,None,None,None,,,2,None,None
+41,Ronse,House for sale,,"€ 159,000",F,6,,,None,None,,None,,,1,None,None
+42,Lauwe,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+43,Chaudfontaine Beaufays,House for sale,,"€ 172,500",B,7,,,None,None,None,None,,,4,None,None
+44,Verviers Ensival,House for sale,,"€ 180,000",S,9,,,None,None,,None,,,None,None,None
+45,Seraing,House for sale,,"€ 189,000",F,None,,,None,None,,None,,,None,None,None
+46,Huy,House for sale,,"€ 195,000",S,17,,,None,None,,None,,,None,None,None
+47,None,Leuze - Centre ville,,None,Y,None,,None,None,None,None,None,,,None,None,None
+48,Ronse,House for sale,,"€ 205,000",S,None,,,None,None,,None,,,2,None,None
+49,Saint-Nicolas,House for sale,,"m²
+square meters",F,59,,,None,None,None,None,,,2,None,None
+50,Middelkerke,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+51,Ath,"ATH - Les Halleurs - Les ""Tailleurs""",,None,None,None,,,None,None,None,None,,,None,None,None
+52,Libin,Maisons neuves à Libin,,None,None,None,,,None,None,None,None,,,None,None,None
+53,Liège,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+54,Averbode,House for sale,,"€ 230,000",F,6,,,None,None,,None,,,None,None,None
+55,Wanze,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+56,None,27 HABITATIONS NEUVES BASSE ÉNERGIE,,None,None,None,,,None,None,None,None,,,None,None,None
+57,Westende,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+58,Herstal,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+59,None,Projet WARCHIN - Lot 16 & 17,,None,Y,None,,None,None,None,None,None,,,None,None,None
+60,None,Le Clos du Brigadier Oger,,None,None,None,,,None,None,None,None,,,None,None,None
+61,Les Bons Villers,Chapelle Village Maisons,,None,None,None,,None,None,None,None,None,,,None,None,None
+62,Ronse,House for sale,,"€ 259,900",F,6,,,None,None,,None,,,None,None,None
+63,Kortemark,Nieuwbouwwoningen te koop in Zarren,,None,Y,None,,None,None,None,None,None,,,None,None,None
+64,Huy,House for sale,,None,S,6,,,None,None,,None,,,Link to the virtual visit,None,None
+65,None,Quartier du Bailou - Maisons,,None,Y,None,,None,None,None,None,None,,,None,None,None
+66,Jambes,Les Jardins d'Enhaive - M,,None,None,None,,,None,None,None,None,,,None,None,None
+67,Brugge,House for sale,,None,S,None,,,None,None,,None,,,None,None,None
+68,None,Stellar Maisons,,None,Y,None,,None,None,None,None,None,,,None,None,None
+69,Ronse,House for sale,,"€ 124,900",F,None,,,None,None,,None,,,None,None,None
+70,Liège Grivegnée,Mixed-use building for sale,,"m²
+square meters",B,None,,,None,None,None,None,,,2,None,None
+71,Ronse,House for sale,,"€ 159,000",F,6,,,None,None,,None,,,1,None,None
+72,Lauwe,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+73,Chaudfontaine Beaufays,House for sale,,"€ 172,500",B,7,,,None,None,None,None,,,4,None,None
+74,Verviers Ensival,House for sale,,"€ 180,000",S,9,,,None,None,,None,,,None,None,None
+75,Seraing,House for sale,,"€ 189,000",F,None,,,None,None,,None,,,None,None,None
+76,Huy,House for sale,,"€ 195,000",S,17,,,None,None,,None,,,None,None,None
+77,None,Leuze - Centre ville,,None,Y,None,,None,None,None,None,None,,,None,None,None
+78,Ronse,House for sale,,"€ 205,000",S,None,,,None,None,,None,,,2,None,None
+79,Saint-Nicolas,House for sale,,"m²
+square meters",F,59,,,None,None,None,None,,,2,None,None
+80,Middelkerke,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+81,Ath,"ATH - Les Halleurs - Les ""Tailleurs""",,None,None,None,,,None,None,None,None,,,None,None,None
+82,Libin,Maisons neuves à Libin,,None,None,None,,,None,None,None,None,,,None,None,None
+83,Liège,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+84,Averbode,House for sale,,"€ 230,000",F,6,,,None,None,,None,,,None,None,None
+85,Wanze,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+86,None,27 HABITATIONS NEUVES BASSE ÉNERGIE,,None,None,None,,,None,None,None,None,,,None,None,None
+87,Westende,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+88,Herstal,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+89,None,Projet WARCHIN - Lot 16 & 17,,None,Y,None,,None,None,None,None,None,,,None,None,None
+90,None,Le Clos du Brigadier Oger,,None,None,None,,,None,None,None,None,,,None,None,None
+91,Les Bons Villers,Chapelle Village Maisons,,None,None,None,,None,None,None,None,None,,,None,None,None
+92,Ronse,House for sale,,"€ 259,900",F,6,,,None,None,,None,,,None,None,None
+93,Kortemark,Nieuwbouwwoningen te koop in Zarren,,None,Y,None,,None,None,None,None,None,,,None,None,None
+94,Huy,House for sale,,None,S,6,,,None,None,,None,,,Link to the virtual visit,None,None
+95,None,Quartier du Bailou - Maisons,,None,Y,None,,None,None,None,None,None,,,None,None,None
+96,Jambes,Les Jardins d'Enhaive - M,,None,None,None,,,None,None,None,None,,,None,None,None
+97,Brugge,House for sale,,None,S,None,,,None,None,,None,,,None,None,None
+98,None,Stellar Maisons,,None,Y,None,,None,None,None,None,None,,,None,None,None
+99,Aartrijke,Nieuwbouwproject 'Huyse Vandewalle' in Aartrijke (,,None,Y,None,,None,None,None,None,None,,,None,None,None
+100,Mont-Saint-Guibert,House for sale,,"€ 299,000",F,17,,,None,None,,None,,,2,None,None
+101,Arlon,ARLON,,None,None,None,,None,None,None,None,None,,,None,None,None
+102,Stekene,Oost-Eindeken - 4 nieuwbouw woningen,,None,None,None,,,None,None,None,None,,,None,None,None
+103,Virton,Maisons Ethe,,None,C,None,,None,None,None,None,None,,,None,None,None
+104,None,"""Les Maisons de la Ferme",,None,None,None,,None,None,None,None,None,,,None,None,None
+105,Tintigny,House for sale,,"€ 349,000",S,9,,,None,None,,None,,,1,None,None
+106,Waremme,Exceptional property for sale,,"€ 350,000",S,6,,,None,None,,None,,,5,None,None
+107,Liège Jupillesur-Meuse,Villa for sale,,None,B,8,,,None,None,,None,,,4,None,None
+108,Mechelen,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+109,Ronse,Apartment block for sale,,"€ 389,000",S,11,,,None,None,,None,,,None,None,None
+110,Seneffe,House for sale,,"€ 395,000",S,8,,,None,None,,None,,,10,None,None
+111,Schaerbeek,Apartment block for sale,,"€ 399,000",S,34,,,None,None,,None,,,None,None,None
+112,Tremelo,Eikenbos Tremelo,,None,None,None,,None,None,None,None,None,,,None,None,None
+113,Huy,Apartment block for sale,,"m²
+square meters",F,11,,,None,None,,None,,,None,None,None
+114,Huy,Exceptional property for sale,,"m²
+square meters",F,11,,,None,None,,None,,,None,None,None
+115,Antwerp 5,House for sale,,"€ 450,000",S,11,,,None,None,,None,,,1,None,None
+116,Gent,Dockside Gardens woningen,,None,None,None,,,None,None,None,None,,,None,None,None
+117,Herent,MOLENVELD,,None,Y,None,,None,None,None,None,None,,,None,None,None
+118,Waterloo,House for sale,,"€ 559,000",S,None,,,None,None,,None,,,4,None,None
+119,Woluwe-Saint-Pierre,House for sale,,"€ 570,000",S,6,,,None,None,,None,,,1,None,None
+120,Woluwe-Saint-Pierre,House for sale,,None,B,17,,,None,None,,None,,,2,None,None
+121,Fratin,House for sale,,"€ 597,000",S,9,,,None,None,,None,,,4,None,None
+122,Ixelles,House for sale,,None,F,7,,,None,None,,None,,,None,None,None
+123,Uccle,MOULIN BLANC,,None,None,None,,None,None,None,None,None,,,None,None,None
+124,Knokke,House for sale,,"€ 850,000",C,None,,,None,None,,None,,,None,None,None
+125,Woluwe-St-Pierre,House for sale,,None,S,7,,,None,None,,None,,,1,None,None
+126,Ixelles,House for sale,,None,S,7,,,None,None,,None,,,3,None,None
+127,Woluwe-Saint-Lambert,Apartment block for sale,,None,B,18,,,None,None,,None,,,2,None,None
+128,Amay,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+129,Aartrijke,Nieuwbouwproject 'Huyse Vandewalle' in Aartrijke (,,None,Y,None,,None,None,None,None,None,,,None,None,None
+130,Mont-Saint-Guibert,House for sale,,"€ 299,000",F,17,,,None,None,,None,,,2,None,None
+131,Arlon,ARLON,,None,None,None,,None,None,None,None,None,,,None,None,None
+132,Stekene,Oost-Eindeken - 4 nieuwbouw woningen,,None,None,None,,,None,None,None,None,,,None,None,None
+133,Virton,Maisons Ethe,,None,C,None,,None,None,None,None,None,,,None,None,None
+134,None,"""Les Maisons de la Ferme",,None,None,None,,None,None,None,None,None,,,None,None,None
+135,Tintigny,House for sale,,"€ 349,000",S,9,,,None,None,,None,,,1,None,None
+136,Waremme,Exceptional property for sale,,"€ 350,000",S,6,,,None,None,,None,,,5,None,None
+137,Liège Jupillesur-Meuse,Villa for sale,,None,B,8,,,None,None,,None,,,4,None,None
+138,Mechelen,New real estate project - Houses for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+139,Ronse,Apartment block for sale,,"€ 389,000",S,11,,,None,None,,None,,,None,None,None
+140,Seneffe,House for sale,,"€ 395,000",S,8,,,None,None,,None,,,10,None,None
+141,Schaerbeek,Apartment block for sale,,"€ 399,000",S,34,,,None,None,,None,,,None,None,None
+142,Tremelo,Eikenbos Tremelo,,None,None,None,,None,None,None,None,None,,,None,None,None
+143,Huy,Apartment block for sale,,"m²
+square meters",F,11,,,None,None,,None,,,None,None,None
+144,Huy,Exceptional property for sale,,"m²
+square meters",F,11,,,None,None,,None,,,None,None,None
+145,Antwerp 5,House for sale,,"€ 450,000",S,11,,,None,None,,None,,,1,None,None
+146,Gent,Dockside Gardens woningen,,None,None,None,,,None,None,None,None,,,None,None,None
+147,Herent,MOLENVELD,,None,Y,None,,None,None,None,None,None,,,None,None,None
+148,Waterloo,House for sale,,"€ 559,000",S,None,,,None,None,,None,,,4,None,None
+149,Woluwe-Saint-Pierre,House for sale,,"€ 570,000",S,6,,,None,None,,None,,,1,None,None
+150,Woluwe-Saint-Pierre,House for sale,,None,B,17,,,None,None,,None,,,2,None,None
+151,Fratin,House for sale,,"€ 597,000",S,9,,,None,None,,None,,,4,None,None
+152,Ixelles,House for sale,,None,F,7,,,None,None,,None,,,None,None,None
+153,Uccle,MOULIN BLANC,,None,None,None,,None,None,None,None,None,,,None,None,None
+154,Knokke,House for sale,,"€ 850,000",C,None,,,None,None,,None,,,None,None,None
+155,Woluwe-St-Pierre,House for sale,,None,S,7,,,None,None,,None,,,1,None,None
+156,Ixelles,House for sale,,None,S,7,,,None,None,,None,,,3,None,None
+157,Woluwe-Saint-Lambert,Apartment block for sale,,None,B,18,,,None,None,,None,,,2,None,None
+158,Amay,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+159,SCHERPENHEUVEL-ZICHEM,Apartment block for sale,,"€ 198,000",None,None,,,None,None,None,None,,,None,None,None
+160,APPELS,House for sale,,"€ 199,000",C,None,,,None,None,,None,,,None,None,None
+161,Oudenaarde,House for sale,,"€ 240,000",C,None,,,None,None,None,None,,,None,None,None
+162,Aartrijke,Mansion for sale,,"€ 279,000",C,7,,,None,None,None,None,,,None,None,None
+163,NIJLEN,House for sale,,"€ 298,000",None,None,,,None,None,None,None,,,None,None,None
+164,Dendermonde,House for sale,,"€ 299,000",None,None,,,None,None,,None,,,None,None,None
+165,ANTHEIT,House for sale,,"€ 310,000",None,None,,,None,None,,None,,,None,None,None
+166,Mechelen,House for sale,,"€ 312,000",None,None,,,None,None,,None,,,None,None,None
+167,PERK,House for sale,,"€ 335,000",F,None,,,None,None,None,None,,,1,None,None
+168,Hamoir,Villa for sale,,"€ 419,000",O,None,,,None,None,,None,,,None,None,None
+169,Heist-op-den-Berg,House for sale,,None,F,6,,,None,None,,None,,,1,None,None
+170,Kapelle-op-den-Bos,House for sale,,"€ 520,000",O,None,,,None,None,,None,,,None,None,None
+171,Tielt,Villa for sale,,"€ 550,000",C,None,,,None,None,,None,,,None,None,None
+172,Stekene,House for sale,,"€ 625,000",C,22,,,None,None,,None,,,None,None,None
+173,Braine-l'Alleud,Villa for sale,,"€ 1,150,000",F,15,,,None,None,,None,,,4,None,None
+174,Uccle,House for sale,,"€ 1,800,000",F,21,,,None,None,None,None,,,None,None,None
+175,Neder-over-Heembeek,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+176,Ixelles,House for sale,,"€ 750,000",B,None,,,None,None,,None,,,2,None,None
+177,Huy,House for sale,,"€ 148,500",None,None,,,None,None,,None,,,None,None,None
+178,Wevelgem,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+179,SAINT-GEORGES-SUR-MEUSE,House for sale,,"€ 295,000",None,None,,,None,None,None,None,,,None,None,None
+180,Antwerp 1,House for sale,,None,B,13,,,None,None,,None,,,2,None,None
+181,FLÉMALLE-HAUTE,House for sale,,"€ 155,000",None,None,,,None,None,None,None,,,None,None,None
+182,Chiny Les Bulles,House for sale,,"€ 200,000",F,7,,,None,None,,None,,,2,None,None
+183,Huy Ben-Ahin,House for sale,,"€ 210,000",F,5,,,None,None,,None,,,None,None,None
+184,STRÉE-LEZ-HUY,Bungalow for sale,,None,C,None,,,None,None,,None,,,None,None,None
+185,Orp-Jauche,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+186,Rixensart,Town-house for sale,,None,B,13,,,None,None,,None,,,1,None,None
+187,Juprelle,Bungalow for sale,,"€ 349,000",B,None,,,None,None,,None,,,1,None,None
+188,Jette,Villa for sale,,"€ 2,150,000",S,9,,,None,None,,None,,,1,None,None
+189,SCHERPENHEUVEL-ZICHEM,Apartment block for sale,,"€ 198,000",None,None,,,None,None,None,None,,,None,None,None
+190,APPELS,House for sale,,"€ 199,000",C,None,,,None,None,,None,,,None,None,None
+191,Oudenaarde,House for sale,,"€ 240,000",C,None,,,None,None,None,None,,,None,None,None
+192,Aartrijke,Mansion for sale,,"€ 279,000",C,7,,,None,None,None,None,,,None,None,None
+193,NIJLEN,House for sale,,"€ 298,000",None,None,,,None,None,None,None,,,None,None,None
+194,Dendermonde,House for sale,,"€ 299,000",None,None,,,None,None,,None,,,None,None,None
+195,ANTHEIT,House for sale,,"€ 310,000",None,None,,,None,None,,None,,,None,None,None
+196,Mechelen,House for sale,,"€ 312,000",None,None,,,None,None,,None,,,None,None,None
+197,PERK,House for sale,,"€ 335,000",F,None,,,None,None,None,None,,,1,None,None
+198,Hamoir,Villa for sale,,"€ 419,000",O,None,,,None,None,,None,,,None,None,None
+199,Heist-op-den-Berg,House for sale,,None,F,6,,,None,None,,None,,,1,None,None
+200,Kapelle-op-den-Bos,House for sale,,"€ 520,000",O,None,,,None,None,,None,,,None,None,None
+201,Tielt,Villa for sale,,"€ 550,000",C,None,,,None,None,,None,,,None,None,None
+202,Stekene,House for sale,,"€ 625,000",C,22,,,None,None,,None,,,None,None,None
+203,Braine-l'Alleud,Villa for sale,,"€ 1,150,000",F,15,,,None,None,,None,,,4,None,None
+204,Uccle,House for sale,,"€ 1,800,000",F,21,,,None,None,None,None,,,None,None,None
+205,Neder-over-Heembeek,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+206,Ixelles,House for sale,,"€ 750,000",B,None,,,None,None,,None,,,2,None,None
+207,Huy,House for sale,,"€ 148,500",None,None,,,None,None,,None,,,None,None,None
+208,Wevelgem,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+209,SAINT-GEORGES-SUR-MEUSE,House for sale,,"€ 295,000",None,None,,,None,None,None,None,,,None,None,None
+210,Antwerp 1,House for sale,,None,B,13,,,None,None,,None,,,2,None,None
+211,FLÉMALLE-HAUTE,House for sale,,"€ 155,000",None,None,,,None,None,None,None,,,None,None,None
+212,Chiny Les Bulles,House for sale,,"€ 200,000",F,7,,,None,None,,None,,,2,None,None
+213,Huy Ben-Ahin,House for sale,,"€ 210,000",F,5,,,None,None,,None,,,None,None,None
+214,STRÉE-LEZ-HUY,Bungalow for sale,,None,C,None,,,None,None,,None,,,None,None,None
+215,Orp-Jauche,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+216,Rixensart,Town-house for sale,,None,B,13,,,None,None,,None,,,1,None,None
+217,Juprelle,Bungalow for sale,,"€ 349,000",B,None,,,None,None,,None,,,1,None,None
+218,Jette,Villa for sale,,"€ 2,150,000",S,9,,,None,None,,None,,,1,None,None
+219,Chaudfontaine Vaux-sous-Chèvremont,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+220,Kessel-Lo,House for sale,,"€ 499,000",B,6,,,None,None,,None,,,3,None,None
+221,Virton,Apartment block for sale,,"€ 349,000",F,None,,,None,None,None,None,,,None,None,None
+222,Opwijk,Bungalow for sale,,"€ 425,000",O,None,,,None,None,,None,,,None,None,None
+223,Berlare,Mixed-use building for sale,,None,O,None,,,None,None,,None,,,None,None,None
+224,Berlare,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+225,Brugge,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+226,Visé Cheratte,House for sale,,None,B,5,,,None,None,,None,,,1,None,None
+227,Anderlecht,House for sale,,None,V,22,,,None,None,,None,,,None,None,None
+228,Oudenburg,House for sale,,"€ 259,000",None,None,,,None,None,,None,,,None,None,None
+229,Willebroek,House for sale,,"€ 395,000",C,None,,,None,None,,None,,,None,None,None
+230,Charleroi Montsur-Marchienne,House for sale,,None,F,11,,,None,None,,None,,,2,None,None
+231,Amay,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+232,Hamoir,Bungalow for sale,,None,F,None,,,None,None,,None,,,13,None,None
+233,Evergem,House for sale,,None,F,None,,,None,None,,None,,,1,None,None
+234,Neuvillers,House for sale,,"€ 185,000",S,None,,,None,None,,None,,,3,None,None
+235,Tervuren,Town-house for sale,,"€ 725,000",F,None,,,None,None,,None,,,2,None,None
+236,SAINT-SÉVERIN,House for sale,,"€ 189,500",C,None,,,None,None,,None,,,None,None,None
+237,Auderghem,House for sale,,"m²
+square meters",S,None,,,None,None,,None,,,Link to the virtual visit,None,None
+238,Evere,Apartment block for sale,,"€ 695,000",None,None,,None,None,None,,None,,,None,None,None
+239,Willebroek,House for sale,,"€ 199,000",None,None,,,None,None,None,None,,,None,None,None
+240,BROECHEM,House for sale,,"€ 238,000",F,None,,,None,None,None,None,,,None,None,None
+241,Aubange,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+242,Meix-devant-Virton,House for sale,,None,F,8,,,None,None,,None,,,3,None,None
+243,Huy,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+244,PUURS,Villa for sale,,"€ 459,000",C,None,,,None,None,,None,,,None,None,None
+245,Chaumont-Gistoux,House for sale,,"€ 535,000",B,9,,,None,None,,None,,,1,None,None
+246,Laarne,House for sale,,"€ 595,000",None,None,,,None,None,None,None,,,None,None,None
+247,SINT-GILLIS-WAAS,Exceptional property for sale,,"€ 625,000",C,None,,,None,None,,None,,,None,None,None
+248,Knokke,House for sale,,"€ 695,000",None,None,,,None,None,,None,,,None,None,None
+249,Chaudfontaine Vaux-sous-Chèvremont,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+250,Kessel-Lo,House for sale,,"€ 499,000",B,6,,,None,None,,None,,,3,None,None
+251,Virton,Apartment block for sale,,"€ 349,000",F,None,,,None,None,None,None,,,None,None,None
+252,Opwijk,Bungalow for sale,,"€ 425,000",O,None,,,None,None,,None,,,None,None,None
+253,Berlare,Mixed-use building for sale,,None,O,None,,,None,None,,None,,,None,None,None
+254,Berlare,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+255,Brugge,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+256,Visé Cheratte,House for sale,,None,B,5,,,None,None,,None,,,1,None,None
+257,Anderlecht,House for sale,,None,V,22,,,None,None,,None,,,None,None,None
+258,Oudenburg,House for sale,,"€ 259,000",None,None,,,None,None,,None,,,None,None,None
+259,Willebroek,House for sale,,"€ 395,000",C,None,,,None,None,,None,,,None,None,None
+260,Charleroi Montsur-Marchienne,House for sale,,None,F,11,,,None,None,,None,,,2,None,None
+261,Amay,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+262,Hamoir,Bungalow for sale,,None,F,None,,,None,None,,None,,,13,None,None
+263,Evergem,House for sale,,None,F,None,,,None,None,,None,,,1,None,None
+264,Neuvillers,House for sale,,"€ 185,000",S,None,,,None,None,,None,,,3,None,None
+265,Tervuren,Town-house for sale,,"€ 725,000",F,None,,,None,None,,None,,,2,None,None
+266,SAINT-SÉVERIN,House for sale,,"€ 189,500",C,None,,,None,None,,None,,,None,None,None
+267,Auderghem,House for sale,,"m²
+square meters",S,None,,,None,None,,None,,,Link to the virtual visit,None,None
+268,Evere,Apartment block for sale,,"€ 695,000",None,None,,None,None,None,,None,,,None,None,None
+269,Willebroek,House for sale,,"€ 199,000",None,None,,,None,None,None,None,,,None,None,None
+270,BROECHEM,House for sale,,"€ 238,000",F,None,,,None,None,None,None,,,None,None,None
+271,Aubange,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+272,Meix-devant-Virton,House for sale,,None,F,8,,,None,None,,None,,,3,None,None
+273,Huy,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+274,PUURS,Villa for sale,,"€ 459,000",C,None,,,None,None,,None,,,None,None,None
+275,Chaumont-Gistoux,House for sale,,"€ 535,000",B,9,,,None,None,,None,,,1,None,None
+276,Laarne,House for sale,,"€ 595,000",None,None,,,None,None,None,None,,,None,None,None
+277,SINT-GILLIS-WAAS,Exceptional property for sale,,"€ 625,000",C,None,,,None,None,,None,,,None,None,None
+278,Knokke,House for sale,,"€ 695,000",None,None,,,None,None,,None,,,None,None,None
+279,Brugge,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+280,Huy,House for sale,,"€ 349,000",O,None,,,None,None,,None,,,None,None,None
+281,Neufchateau,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+282,Durbuy,Exceptional property for sale,,None,B,19,,,None,None,,None,,,4,None,None
+283,Bertrix,House for sale,,"€ 169,000",S,None,,,None,None,,None,,,1,None,None
+284,Kieldrecht,House for sale,,"€ 339,000",S,None,,,None,None,,None,,,1,None,None
+285,Schaerbeek,House for sale,,"€ 400,000",B,8,,,None,None,,None,,,None,None,None
+286,RUIEN,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+287,Jodoigne,House for sale,,"€ 350,000",O,None,,,None,None,,None,,,None,None,None
+288,None,New real estate project - Houses for sale,,None,Y,None,,None,None,None,None,None,,,None,None,None
+289,Hoboken,House for sale,,"€ 319,000",F,19,,,None,None,,None,,,None,None,None
+290,Aalter,House for sale,,"€ 339,000",None,8,,,None,None,,None,,,None,None,None
+291,AMPSIN,House for sale,,€ 203,None,None,,,None,None,,None,,,None,None,None
+292,Ronse,House for sale,,"€ 99,000",S,None,,,None,None,,None,,,None,None,None
+293,Amay,House for sale,,"€ 115,000",None,None,,,None,None,,None,,,None,None,None
+294,Saint-Nicolas Montegnée,House for sale,,"€ 125,000",F,20,,,None,None,,None,,,None,None,None
+295,Huy,House for sale,,"€ 150,000",None,None,,,None,None,None,None,,,None,None,None
+296,Liège Angleur,House for sale,,"€ 169,000",B,None,,,None,None,,None,,,2,None,None
+297,Huy,House for sale,,"€ 175,000",None,None,,,None,None,,None,,,None,None,None
+298,Beyne-Heusay,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+,Locality,Type of Property,Sub Type,Price,Type of Sale,No of Rooms,Area(sqft),Equipped(Y/N),Furnished(Y/N),Open Fire(Y/N),Terrace Area,Garden Area,Surface of the Land(sqft),Surface area of the Plot(sqft),No of Facades,Simming Pool(Y/N),State of the Building
+0,Beyne-Heusay,House for sale,,"€ 189,000",C,13,,,None,None,,None,,,None,None,None
+1,Amay,House for sale,,"€ 189,500",C,None,,,None,None,,None,,,None,None,None
+2,GRÂCE-HOLLOGNE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+3,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+4,Blégny Saive,Apartment block for sale,,None,B,10,,,None,None,,None,,,None,None,None
+5,Oudenaarde,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+6,Huy,House for sale,,"€ 249,500",None,None,,,None,None,,None,,,None,None,None
+7,Sprimont,Villa for sale,,None,B,6,,,None,None,,None,,,1,None,None
+8,SINT-ELOOIS-VIJVE,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+9,Andenne Coutisse,House for sale,,"€ 265,000",F,7,,,None,None,,None,,,Link to the virtual visit,None,None
+10,Brugge,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+11,Huy,House for sale,,"€ 349,000",O,None,,,None,None,,None,,,None,None,None
+12,Neufchateau,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+13,Durbuy,Exceptional property for sale,,None,B,19,,,None,None,,None,,,4,None,None
+14,Bertrix,House for sale,,"€ 169,000",S,None,,,None,None,,None,,,1,None,None
+15,Kieldrecht,House for sale,,"€ 339,000",S,None,,,None,None,,None,,,1,None,None
+16,Schaerbeek,House for sale,,"€ 400,000",B,8,,,None,None,,None,,,None,None,None
+17,RUIEN,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+18,Jodoigne,House for sale,,"€ 350,000",O,None,,,None,None,,None,,,None,None,None
+19,None,New real estate project - Houses for sale,,None,Y,None,,None,None,None,None,None,,,None,None,None
+20,Hoboken,House for sale,,"€ 319,000",F,19,,,None,None,,None,,,None,None,None
+21,Aalter,House for sale,,"€ 339,000",None,8,,,None,None,,None,,,None,None,None
+22,AMPSIN,House for sale,,€ 203,None,None,,,None,None,,None,,,None,None,None
+23,Ronse,House for sale,,"€ 99,000",S,None,,,None,None,,None,,,None,None,None
+24,Amay,House for sale,,"€ 115,000",None,None,,,None,None,,None,,,None,None,None
+25,Saint-Nicolas Montegnée,House for sale,,"€ 125,000",F,20,,,None,None,,None,,,None,None,None
+26,Huy,House for sale,,"€ 150,000",None,None,,,None,None,None,None,,,None,None,None
+27,Liège Angleur,House for sale,,"€ 169,000",B,None,,,None,None,,None,,,2,None,None
+28,Huy,House for sale,,"€ 175,000",None,None,,,None,None,,None,,,None,None,None
+29,Beyne-Heusay,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+30,Beyne-Heusay,House for sale,,"€ 189,000",C,13,,,None,None,,None,,,None,None,None
+31,Amay,House for sale,,"€ 189,500",C,None,,,None,None,,None,,,None,None,None
+32,GRÂCE-HOLLOGNE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+33,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+34,Blégny Saive,Apartment block for sale,,None,B,10,,,None,None,,None,,,None,None,None
+35,Oudenaarde,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+36,Huy,House for sale,,"€ 249,500",None,None,,,None,None,,None,,,None,None,None
+37,Sprimont,Villa for sale,,None,B,6,,,None,None,,None,,,1,None,None
+38,SINT-ELOOIS-VIJVE,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+39,Andenne Coutisse,House for sale,,"€ 265,000",F,7,,,None,None,,None,,,Link to the virtual visit,None,None
+40,Boom,House for sale,,"€ 269,000",None,None,,,None,None,None,None,,,None,None,None
+41,Liers,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+42,Liège,Apartment block for sale,,"€ 280,000",F,14,,,None,None,,None,,,None,None,None
+43,Huy,House for sale,,"€ 299,500",C,9,,,None,None,,None,,,None,None,None
+44,Bruxelles,House for sale,,None,B,9,,,None,None,,None,,,Link to the virtual visit,None,None
+45,SINT-MARTENS-LIERDE,Country cottage for sale,,"€ 330,000",C,None,,,None,None,None,None,,,None,None,None
+46,Verlaine,Villa for sale,,"€ 345,000",O,8,,,None,None,,None,,,None,None,None
+47,Haillot,Villa for sale,,"€ 350,000",C,None,,,None,None,,None,,,None,None,None
+48,Oostende,House for sale,,"€ 375,000",C,7,,,None,None,None,None,,,None,None,None
+49,Rixensart,House for sale,,"€ 399,000",S,7,,,None,None,,None,,,1,None,None
+50,AWIRS,House for sale,,"€ 400,000",C,None,,,None,None,,None,,,None,None,None
+51,Mortsel,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+52,Oudenaarde,House for sale,,"€ 420,000",None,None,,,None,None,None,None,,,None,None,None
+53,KESTER,House for sale,,"€ 429,500",C,10,,,None,None,None,None,,,None,None,None
+54,Willebroek,House for sale,,"€ 430,000",C,None,,,None,None,,None,,,None,None,None
+55,VIERSET-BARSE,House for sale,,"€ 435,000",O,8,,,None,None,,None,,,None,None,None
+56,Zaventem Sint-Stevens-Woluwe,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+57,Anderlecht,House for sale,,None,B,11,,,None,None,,None,,,2,None,None
+58,Uccle,House for sale,,"m²
+square meters",F,None,,,None,None,,None,,,2,None,None
+59,Ninove,House for sale,,"€ 540,000",V,8,,,None,None,,None,,,None,None,None
+60,Spa,Exceptional property for sale,,None,F,None,,,None,None,,None,,,None,None,None
+61,Frasnes-lez-Anvaing,Villa for sale,,"€ 550,000",S,10,,,None,None,,None,,,1,None,None
+62,Woluwe-Saint-Pierre,House for sale,,None,F,21,,,None,None,,None,,,1,None,None
+63,Wavre,House for sale,,"m²
+square meters",F,8,,,None,None,,None,,,3,None,None
+64,Woluwe-Saint-Pierre,House for sale,,"€ 695,000",F,None,,,None,None,,None,,,None,None,None
+65,Waregem,Mansion for sale,,None,C,None,,,None,None,,None,,,None,None,None
+66,Waregem,Mansion for sale,,None,C,None,,,None,None,,None,,,None,None,None
+67,Forest,Town-house for sale,,None,C,20,,,None,None,,None,,,None,None,None
+68,SINT-GENESIUS-RODE,Villa for sale,,"€ 850,000",S,16,,,None,None,,None,,,2,None,None
+69,Sint-Pieters-Leeuw,Exceptional property for sale,,"€ 895,000",F,None,,,None,None,,None,,,10,None,None
+70,Boom,House for sale,,"€ 269,000",None,None,,,None,None,None,None,,,None,None,None
+71,Liers,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+72,Liège,Apartment block for sale,,"€ 280,000",F,14,,,None,None,,None,,,None,None,None
+73,Huy,House for sale,,"€ 299,500",C,9,,,None,None,,None,,,None,None,None
+74,Bruxelles,House for sale,,None,B,9,,,None,None,,None,,,Link to the virtual visit,None,None
+75,SINT-MARTENS-LIERDE,Country cottage for sale,,"€ 330,000",C,None,,,None,None,None,None,,,None,None,None
+76,Verlaine,Villa for sale,,"€ 345,000",O,8,,,None,None,,None,,,None,None,None
+77,Haillot,Villa for sale,,"€ 350,000",C,None,,,None,None,,None,,,None,None,None
+78,Oostende,House for sale,,"€ 375,000",C,7,,,None,None,None,None,,,None,None,None
+79,Rixensart,House for sale,,"€ 399,000",S,7,,,None,None,,None,,,1,None,None
+80,AWIRS,House for sale,,"€ 400,000",C,None,,,None,None,,None,,,None,None,None
+81,Mortsel,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+82,Oudenaarde,House for sale,,"€ 420,000",None,None,,,None,None,None,None,,,None,None,None
+83,KESTER,House for sale,,"€ 429,500",C,10,,,None,None,None,None,,,None,None,None
+84,Willebroek,House for sale,,"€ 430,000",C,None,,,None,None,,None,,,None,None,None
+85,VIERSET-BARSE,House for sale,,"€ 435,000",O,8,,,None,None,,None,,,None,None,None
+86,Zaventem Sint-Stevens-Woluwe,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+87,Anderlecht,House for sale,,None,B,11,,,None,None,,None,,,2,None,None
+88,Uccle,House for sale,,"m²
+square meters",F,None,,,None,None,,None,,,2,None,None
+89,Ninove,House for sale,,"€ 540,000",V,8,,,None,None,,None,,,None,None,None
+90,Spa,Exceptional property for sale,,None,F,None,,,None,None,,None,,,None,None,None
+91,Frasnes-lez-Anvaing,Villa for sale,,"€ 550,000",S,10,,,None,None,,None,,,1,None,None
+92,Woluwe-Saint-Pierre,House for sale,,None,F,21,,,None,None,,None,,,1,None,None
+93,Wavre,House for sale,,"m²
+square meters",F,8,,,None,None,,None,,,3,None,None
+94,Woluwe-Saint-Pierre,House for sale,,"€ 695,000",F,None,,,None,None,,None,,,None,None,None
+95,Waregem,Mansion for sale,,None,C,None,,,None,None,,None,,,None,None,None
+96,Waregem,Mansion for sale,,None,C,None,,,None,None,,None,,,None,None,None
+97,Forest,Town-house for sale,,None,C,20,,,None,None,,None,,,None,None,None
+98,SINT-GENESIUS-RODE,Villa for sale,,"€ 850,000",S,16,,,None,None,,None,,,2,None,None
+99,Sint-Pieters-Leeuw,Exceptional property for sale,,"€ 895,000",F,None,,,None,None,,None,,,10,None,None
+100,Woluwe-Saint-Pierre,Exceptional property for sale,,"€ 950,000",C,14,,,None,None,,None,,,None,None,None
+101,BRUXELLES,Mixed-use building for sale,,"€ 1,395,000",F,None,,,None,None,None,None,,,None,None,None
+102,Uccle,Villa for sale,,None,V,14,,,None,None,,None,,,None,None,None
+103,Kraainem,Exceptional property for sale,,None,S,7,,,None,None,,None,,,3,None,None
+104,Knokke-Heist,Villa for sale,,None,B,11,,,None,None,,None,,,2,None,None
+105,Brussels City,Mixed-use building for sale,,None,None,None,,,None,None,,None,,,None,None,None
+106,RHODE-SAINT-GENESE,Villa for sale,,None,S,54,,,None,None,,None,,,2,None,None
+107,Bruxelles,Mixed-use building for sale,,None,F,83,,,None,None,,None,,,None,None,None
+108,Anderlecht,Mixed-use building for sale,,None,F,83,,,None,None,,None,,,None,None,None
+109,Izegem,House for sale,,"€ 279,000",C,None,,,None,None,,None,,,None,None,None
+110,Oudenaarde,House for sale,,"€ 299,000",C,None,,,None,None,None,None,,,None,None,None
+111,ANVAING,Villa for sale,,None,None,41,,,None,None,None,None,,,None,None,None
+112,Liedekerke,House for sale,,"€ 395,000",O,7,,,None,None,,None,,,None,None,None
+113,Wolvertem,House for sale,,"€ 398,000",None,None,,,None,None,,None,,,None,None,None
+114,Engis Hermallesous-Huy,House for sale,,"€ 169,000",O,None,,,None,None,,None,,,None,None,None
+115,Marchienne-au-Pont,Apartment block for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+116,Waasmunster,Bungalow for sale,,"€ 360,000",C,None,,,None,None,,None,,,None,None,None
+117,Grez-Doiceau,Villa for sale,,"m²
+square meters",F,7,,,None,None,,None,,,5,None,None
+118,Edegem,House for sale,,"€ 249,500",F,None,,,None,None,None,None,,,None,None,None
+119,Schaerbeek,Apartment block for sale,,None,None,19,,,None,None,,None,,,None,None,None
+120,Liège,House for sale,,None,F,11,,,None,None,,None,,,2,None,None
+121,Woluwe-Saint-Pierre,House for sale,,"€ 525,000",F,None,,,None,None,,None,,,None,None,None
+122,Leglise - Traimont,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+123,Ellezelles,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+124,Moorslede,House for sale,,"€ 395,000",F,6,,,None,None,,None,,,2,None,None
+125,None,LES COTEAUX D'ERBONNE - MONT FALISE PHASE 1 MAISON,,None,Y,None,,None,None,None,None,None,,,None,None,None
+126,Eghezee,Clos de la Chapelle proje,,None,None,None,,,None,None,None,None,,,None,None,None
+127,Buzet,House for sale,,None,F,7,,,None,None,,None,,,None,None,None
+128,Rixensart,Villa for sale,,None,B,10,,,None,None,,None,,,4,None,None
+129,Dworp,House for sale,,"€ 475,000",C,None,,,None,None,,None,,,None,None,None
+130,Woluwe-Saint-Pierre,Exceptional property for sale,,"€ 950,000",C,14,,,None,None,,None,,,None,None,None
+131,BRUXELLES,Mixed-use building for sale,,"€ 1,395,000",F,None,,,None,None,None,None,,,None,None,None
+132,Uccle,Villa for sale,,None,V,14,,,None,None,,None,,,None,None,None
+133,Kraainem,Exceptional property for sale,,None,S,7,,,None,None,,None,,,3,None,None
+134,Knokke-Heist,Villa for sale,,None,B,11,,,None,None,,None,,,2,None,None
+135,Brussels City,Mixed-use building for sale,,None,None,None,,,None,None,,None,,,None,None,None
+136,RHODE-SAINT-GENESE,Villa for sale,,None,S,54,,,None,None,,None,,,2,None,None
+137,Bruxelles,Mixed-use building for sale,,None,F,83,,,None,None,,None,,,None,None,None
+138,Anderlecht,Mixed-use building for sale,,None,F,83,,,None,None,,None,,,None,None,None
+139,Izegem,House for sale,,"€ 279,000",C,None,,,None,None,,None,,,None,None,None
+140,Oudenaarde,House for sale,,"€ 299,000",C,None,,,None,None,None,None,,,None,None,None
+141,ANVAING,Villa for sale,,None,None,41,,,None,None,None,None,,,None,None,None
+142,Liedekerke,House for sale,,"€ 395,000",O,7,,,None,None,,None,,,None,None,None
+143,Wolvertem,House for sale,,"€ 398,000",None,None,,,None,None,,None,,,None,None,None
+144,Engis Hermallesous-Huy,House for sale,,"€ 169,000",O,None,,,None,None,,None,,,None,None,None
+145,Marchienne-au-Pont,Apartment block for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+146,Waasmunster,Bungalow for sale,,"€ 360,000",C,None,,,None,None,,None,,,None,None,None
+147,Grez-Doiceau,Villa for sale,,"m²
+square meters",F,7,,,None,None,,None,,,5,None,None
+148,Edegem,House for sale,,"€ 249,500",F,None,,,None,None,None,None,,,None,None,None
+149,Schaerbeek,Apartment block for sale,,None,None,19,,,None,None,,None,,,None,None,None
+150,Liège,House for sale,,None,F,11,,,None,None,,None,,,2,None,None
+151,Woluwe-Saint-Pierre,House for sale,,"€ 525,000",F,None,,,None,None,,None,,,None,None,None
+152,Leglise - Traimont,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+153,Ellezelles,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+154,Moorslede,House for sale,,"€ 395,000",F,6,,,None,None,,None,,,2,None,None
+155,None,LES COTEAUX D'ERBONNE - MONT FALISE PHASE 1 MAISON,,None,Y,None,,None,None,None,None,None,,,None,None,None
+156,Eghezee,Clos de la Chapelle proje,,None,None,None,,,None,None,None,None,,,None,None,None
+157,Buzet,House for sale,,None,F,7,,,None,None,,None,,,None,None,None
+158,Rixensart,Villa for sale,,None,B,10,,,None,None,,None,,,4,None,None
+159,Dworp,House for sale,,"€ 475,000",C,None,,,None,None,,None,,,None,None,None
+160,Sterrebeek,Villa for sale,,None,F,8,,,None,None,,None,,,1,None,None
+161,Nieuwerkerken,House for sale,,"€ 419,000",O,None,,,None,None,,None,,,None,None,None
+162,Waterloo,Villa for sale,,"€ 995,000",F,None,,,None,None,,None,,,None,None,None
+163,Grimbergen,Villa for sale,,None,C,13,,,None,None,,None,,,None,None,None
+164,Ronse,Villa for sale,,"€ 339,500",F,12,,,None,None,,None,,,None,None,None
+165,Assenede,Villa for sale,,"€ 635,000",S,None,,,None,None,,None,,,2,None,None
+166,Berchem-Sainte-Agathe,House for sale,,"€ 680,000",F,10,,,None,None,,None,,,4,None,None
+167,Zaventem,Villa for sale,,None,F,7,,,None,None,,None,,,2,None,None
+168,Jette,Apartment block for sale,,"m²
+square meters",S,18,,,None,None,,None,,,None,None,None
+169,Woluwe-Saint-Lambert,House for sale,,"€ 790,000",F,None,,,None,None,,None,,,1,None,None
+170,Brugge,Mansion for sale,,"€ 849,000",None,None,,,None,None,,None,,,None,None,None
+171,Ixelles,House for sale,,"€ 1,650,000",S,27,,,None,None,,None,,,1,None,None
+172,Jette,Villa for sale,,None,S,17,,,None,None,,None,,,4,None,None
+173,Ixelles,Apartment block for sale,,"€ 2,300,000",B,15,,,None,None,,None,,,2,None,None
+174,Rhode-Saint-Genese,Villa for sale,,"€ 2,750,000",S,20,,,None,None,,None,,,2,None,None
+175,Rochefort Jemelle,House for sale,,"€ 169,000",F,6,,,None,None,,None,,,None,None,None
+176,Charleroi Monceausur-Sambre,Villa for sale,,"€ 189,000",F,None,,,None,None,,None,,,4,None,None
+177,Beloeil,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+178,None,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+179,Opwijk,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+180,None,Exceptional property for sale,,None,F,12,,,None,None,,None,,,1,None,None
+181,Wezembeek-Oppem,House for sale,,"€ 520,000",F,12,,,None,None,,None,,,None,None,None
+182,None,House for sale,,"€ 545,000",S,None,,,None,None,,None,,,1,None,None
+183,Bassenge Glons,House for sale,,None,F,12,,,None,None,,None,,,Link to the virtual visit,None,None
+184,None,House for sale,,"€ 660,000",F,8,,,None,None,,None,,,None,None,None
+185,SINT-MARTENS-LATEM,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+186,None,House for sale,,"€ 695,000",S,7,,,None,None,,None,,,None,None,None
+187,Grez-Doiceau,Villa for sale,,None,O,13,,,None,None,,None,,,None,None,None
+188,Brussels,Mixed-use building for sale,,None,F,16,,,None,None,,None,,,None,None,None
+189,Ixelles,Mixed-use building for sale,,"€ 520,000",V,None,,,None,None,,None,,,None,None,None
+190,Sterrebeek,Villa for sale,,None,F,8,,,None,None,,None,,,1,None,None
+191,Nieuwerkerken,House for sale,,"€ 419,000",O,None,,,None,None,,None,,,None,None,None
+192,Waterloo,Villa for sale,,"€ 995,000",F,None,,,None,None,,None,,,None,None,None
+193,Grimbergen,Villa for sale,,None,C,13,,,None,None,,None,,,None,None,None
+194,Ronse,Villa for sale,,"€ 339,500",F,12,,,None,None,,None,,,None,None,None
+195,Assenede,Villa for sale,,"€ 635,000",S,None,,,None,None,,None,,,2,None,None
+196,Berchem-Sainte-Agathe,House for sale,,"€ 680,000",F,10,,,None,None,,None,,,4,None,None
+197,Zaventem,Villa for sale,,None,F,7,,,None,None,,None,,,2,None,None
+198,Jette,Apartment block for sale,,"m²
+square meters",S,18,,,None,None,,None,,,None,None,None
+199,Woluwe-Saint-Lambert,House for sale,,"€ 790,000",F,None,,,None,None,,None,,,1,None,None
+200,Brugge,Mansion for sale,,"€ 849,000",None,None,,,None,None,,None,,,None,None,None
+201,Ixelles,House for sale,,"€ 1,650,000",S,27,,,None,None,,None,,,1,None,None
+202,Jette,Villa for sale,,None,S,17,,,None,None,,None,,,4,None,None
+203,Ixelles,Apartment block for sale,,"€ 2,300,000",B,15,,,None,None,,None,,,2,None,None
+204,Rhode-Saint-Genese,Villa for sale,,"€ 2,750,000",S,20,,,None,None,,None,,,2,None,None
+205,Rochefort Jemelle,House for sale,,"€ 169,000",F,6,,,None,None,,None,,,None,None,None
+206,Charleroi Monceausur-Sambre,Villa for sale,,"€ 189,000",F,None,,,None,None,,None,,,4,None,None
+207,Beloeil,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+208,None,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+209,Opwijk,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+210,None,Exceptional property for sale,,None,F,12,,,None,None,,None,,,1,None,None
+211,Wezembeek-Oppem,House for sale,,"€ 520,000",F,12,,,None,None,,None,,,None,None,None
+212,None,House for sale,,"€ 545,000",S,None,,,None,None,,None,,,1,None,None
+213,Bassenge Glons,House for sale,,None,F,12,,,None,None,,None,,,Link to the virtual visit,None,None
+214,None,House for sale,,"€ 660,000",F,8,,,None,None,,None,,,None,None,None
+215,SINT-MARTENS-LATEM,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+216,None,House for sale,,"€ 695,000",S,7,,,None,None,,None,,,None,None,None
+217,Grez-Doiceau,Villa for sale,,None,O,13,,,None,None,,None,,,None,None,None
+218,Brussels,Mixed-use building for sale,,None,F,16,,,None,None,,None,,,None,None,None
+219,Ixelles,Mixed-use building for sale,,"€ 520,000",V,None,,,None,None,,None,,,None,None,None
+220,Saint-Georges-sur-Meuse,House for sale,,"€ 170,000",S,5,,,None,None,,None,,,None,None,None
+221,Amay,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+222,Gentbrugge,House for sale,,"€ 387,635",F,None,,,None,None,,None,,,None,None,None
+223,Antwerpen Berchem,House for sale,,"€ 385,000",F,None,,,None,None,None,None,,,None,None,None
+224,Anderlecht,Mixed-use building for sale,,"m²
+square meters",S,10,,,None,None,,None,,,3,None,None
+225,Woluwe-Saint-Pierre,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+226,ASSENT,House for sale,,"€ 279,500",B,5,,,None,None,,None,,,4,None,None
+227,Fauvillers,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+228,Ronse,Mansion for sale,,"€ 450,000",None,None,,,None,None,None,None,,,None,None,None
+229,Rochefort,House for sale,,None,F,None,,,None,None,,None,,,1,None,None
+230,Hotton,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+231,Saint-Nicolas,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+232,Ronse,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+233,Lubbeek,House for sale,,"€ 338,500",None,None,,,None,None,None,None,,,None,None,None
+234,Hoeilaart,House for sale,,"€ 369,000",O,7,,,None,None,,None,,,None,None,None
+235,None,Mansion for sale,,"m²
+square meters",S,11,,,None,None,,None,,,1,None,None
+236,VIERSEL,House for sale,,"€ 495,000",O,None,,,None,None,None,None,,,None,None,None
+237,None,House for sale,,"m²
+square meters",S,12,,,None,None,,None,,,1,None,None
+238,None,House for sale,,"m²
+square meters",S,10,,,None,None,,None,,,1,None,None
+239,None,Apartment block for sale,,"€ 925,000",S,9,,,None,None,,None,,,2,None,None
+240,Amay,House for sale,,"€ 90,000",None,None,,,None,None,None,None,,,None,None,None
+241,Aalst Meldert,Exceptional property for sale,,None,F,9,,,None,None,,None,,,2,None,None
+242,Bastogne,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+243,Rèves,House for sale,,"€ 245,000",F,None,,,None,None,,None,,,None,None,None
+244,Turnhout,House for sale,,"€ 249,000",None,9,,,None,None,None,None,,,None,None,None
+245,JUMET (CHARLEROI),House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+246,SINT-DENIJS-WESTREM,House for sale,,"€ 495,000",None,None,,,None,None,,None,,,None,None,None
+247,KEMZEKE,Exceptional property for sale,,"€ 569,000",O,None,,,None,None,,None,,,None,None,None
+248,Zaventem Sterrebeek,Villa for sale,,"€ 675,000",C,10,,,None,None,,None,,,None,None,None
+249,Villers-la-Ville,Villa for sale,,"€ 795,000",B,None,,,None,None,,None,,,4,None,None
+250,Saint-Georges-sur-Meuse,House for sale,,"€ 170,000",S,5,,,None,None,,None,,,None,None,None
+251,Amay,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+252,Gentbrugge,House for sale,,"€ 387,635",F,None,,,None,None,,None,,,None,None,None
+253,Antwerpen Berchem,House for sale,,"€ 385,000",F,None,,,None,None,None,None,,,None,None,None
+254,Anderlecht,Mixed-use building for sale,,"m²
+square meters",S,10,,,None,None,,None,,,3,None,None
+255,Woluwe-Saint-Pierre,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+256,ASSENT,House for sale,,"€ 279,500",B,5,,,None,None,,None,,,4,None,None
+257,Fauvillers,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+258,Ronse,Mansion for sale,,"€ 450,000",None,None,,,None,None,None,None,,,None,None,None
+259,Rochefort,House for sale,,None,F,None,,,None,None,,None,,,1,None,None
+260,Hotton,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+261,Saint-Nicolas,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+262,Ronse,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+263,Lubbeek,House for sale,,"€ 338,500",None,None,,,None,None,None,None,,,None,None,None
+264,Hoeilaart,House for sale,,"€ 369,000",O,7,,,None,None,,None,,,None,None,None
+265,None,Mansion for sale,,"m²
+square meters",S,11,,,None,None,,None,,,1,None,None
+266,VIERSEL,House for sale,,"€ 495,000",O,None,,,None,None,None,None,,,None,None,None
+267,None,House for sale,,"m²
+square meters",S,12,,,None,None,,None,,,1,None,None
+268,None,House for sale,,"m²
+square meters",S,10,,,None,None,,None,,,1,None,None
+269,None,Apartment block for sale,,"€ 925,000",S,9,,,None,None,,None,,,2,None,None
+270,Amay,House for sale,,"€ 90,000",None,None,,,None,None,None,None,,,None,None,None
+271,Aalst Meldert,Exceptional property for sale,,None,F,9,,,None,None,,None,,,2,None,None
+272,Bastogne,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+273,Rèves,House for sale,,"€ 245,000",F,None,,,None,None,,None,,,None,None,None
+274,Turnhout,House for sale,,"€ 249,000",None,9,,,None,None,None,None,,,None,None,None
+275,JUMET (CHARLEROI),House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+276,SINT-DENIJS-WESTREM,House for sale,,"€ 495,000",None,None,,,None,None,,None,,,None,None,None
+277,KEMZEKE,Exceptional property for sale,,"€ 569,000",O,None,,,None,None,,None,,,None,None,None
+278,Zaventem Sterrebeek,Villa for sale,,"€ 675,000",C,10,,,None,None,,None,,,None,None,None
+279,Villers-la-Ville,Villa for sale,,"€ 795,000",B,None,,,None,None,,None,,,4,None,None
+280,None,House for sale,,None,S,None,,,None,None,,None,,,None,None,None
+281,None,Exceptional property for sale,,"m²
+square meters",F,8,,,None,None,,None,,,2,None,None
+282,None,Villa for sale,,"m²
+square meters",S,20,,,None,None,,None,,,2,None,None
+283,Rochefort,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+284,Oreye,Farmhouse for sale,,"€ 125,000",F,7,,,None,None,,None,,,None,None,None
+285,Fosses-la-Ville,House for sale,,None,F,51,,,None,None,,None,,,1,None,None
+286,Dalhem,House for sale,,"€ 199,000",F,None,,,None,None,,None,,,None,None,None
+287,Ravels,House for sale,,"€ 289,000",None,8,,,None,None,None,None,,,None,None,None
+288,Ganshoren,House for sale,,None,B,10,,,None,None,,None,,,1,None,None
+289,Laeken,House for sale,,None,F,39,,,None,None,,None,,,None,None,None
+290,Ronse,Mansion for sale,,"€ 460,000",None,None,,,None,None,,None,,,None,None,None
+291,Woluwe-Saint-Pierre,House for sale,,"€ 479,000",None,11,,,None,None,,None,,,None,None,None
+292,Neder-over-Heembeek,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+293,Ixelles,House for sale,,"€ 599,000",S,None,,,None,None,,None,,,1,None,None
+294,Evere,House for sale,,None,F,8,,,None,None,,None,,,None,None,None
+295,SINT-GENESIUS-RODE,Villa for sale,,None,C,13,,,None,None,None,None,,,None,None,None
+296,Dalhem Warsage,Exceptional property for sale,,"m²
+square meters",B,20,,,None,None,,None,,,1,None,None
+297,Brugge,Exceptional property for sale,,None,C,15,,,None,None,,None,,,None,None,None
+298,ASSEBROEK,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+299,Nandrin,Villa for sale,,None,S,6,,,None,None,,None,,,2,None,None
+300,Clavier Boiset-Borsu,House for sale,,"€ 199,000",S,6,,,None,None,,None,,,1,None,None
+301,Gooik,House for sale,,"€ 294,000",None,None,,,None,None,,None,,,None,None,None
+302,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+303,Forchies-la-Marche,Mansion for sale,,"€ 239,000",F,7,,,None,None,,None,,,None,None,None
+304,Jambes,House for sale,,"€ 327,500",B,None,,,None,None,,None,,,1,None,None
+305,PEUTIE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+306,None,House for sale,,"€ 165,000",F,None,,,None,None,,None,,,Link to the virtual visit,None,None
+307,Ans,House for sale,,"€ 169,000",S,54,,,None,None,,None,,,Link to the virtual visit,None,None
+308,Ronse,Country cottage for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+309,Huy,Country cottage for sale,,None,O,None,,,None,None,,None,,,None,None,None
+310,None,House for sale,,None,S,None,,,None,None,,None,,,None,None,None
+311,None,Exceptional property for sale,,"m²
+square meters",F,8,,,None,None,,None,,,2,None,None
+312,None,Villa for sale,,"m²
+square meters",S,20,,,None,None,,None,,,2,None,None
+313,Rochefort,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+314,Oreye,Farmhouse for sale,,"€ 125,000",F,7,,,None,None,,None,,,None,None,None
+315,Fosses-la-Ville,House for sale,,None,F,51,,,None,None,,None,,,1,None,None
+316,Dalhem,House for sale,,"€ 199,000",F,None,,,None,None,,None,,,None,None,None
+317,Ravels,House for sale,,"€ 289,000",None,8,,,None,None,None,None,,,None,None,None
+318,Ganshoren,House for sale,,None,B,10,,,None,None,,None,,,1,None,None
+319,Laeken,House for sale,,None,F,39,,,None,None,,None,,,None,None,None
+320,Ronse,Mansion for sale,,"€ 460,000",None,None,,,None,None,,None,,,None,None,None
+321,Woluwe-Saint-Pierre,House for sale,,"€ 479,000",None,11,,,None,None,,None,,,None,None,None
+322,Neder-over-Heembeek,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+323,Ixelles,House for sale,,"€ 599,000",S,None,,,None,None,,None,,,1,None,None
+324,Evere,House for sale,,None,F,8,,,None,None,,None,,,None,None,None
+325,SINT-GENESIUS-RODE,Villa for sale,,None,C,13,,,None,None,None,None,,,None,None,None
+326,Dalhem Warsage,Exceptional property for sale,,"m²
+square meters",B,20,,,None,None,,None,,,1,None,None
+327,Brugge,Exceptional property for sale,,None,C,15,,,None,None,,None,,,None,None,None
+328,ASSEBROEK,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+329,Nandrin,Villa for sale,,None,S,6,,,None,None,,None,,,2,None,None
+330,Clavier Boiset-Borsu,House for sale,,"€ 199,000",S,6,,,None,None,,None,,,1,None,None
+331,Gooik,House for sale,,"€ 294,000",None,None,,,None,None,,None,,,None,None,None
+332,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+333,Forchies-la-Marche,Mansion for sale,,"€ 239,000",F,7,,,None,None,,None,,,None,None,None
+334,Jambes,House for sale,,"€ 327,500",B,None,,,None,None,,None,,,1,None,None
+335,PEUTIE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+336,None,House for sale,,"€ 165,000",F,None,,,None,None,,None,,,Link to the virtual visit,None,None
+337,Ans,House for sale,,"€ 169,000",S,54,,,None,None,,None,,,Link to the virtual visit,None,None
+338,Ronse,Country cottage for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+339,Huy,Country cottage for sale,,None,O,None,,,None,None,,None,,,None,None,None
+340,None,Town-house for sale,,"€ 495,000",F,7,,,None,None,,None,,,1,None,None
+341,None,House for sale,,"€ 580,000",F,None,,,None,None,,None,,,1,None,None
+342,None,Villa for sale,,"€ 1,350,000",S,7,,,None,None,,None,,,2,None,None
+343,Kortrijk,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+344,None,Farmhouse for sale,,"€ 800,000",F,8,,,None,None,,None,,,30,None,None
+345,None,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+346,None,Exceptional property for sale,,None,C,None,,,None,None,,None,,,None,None,None
+347,Marchin,House for sale,,"€ 199,500",C,None,,,None,None,,None,,,None,None,None
+348,Tervuren,House for sale,,"€ 335,000",S,None,,,None,None,None,None,,,1,None,None
+349,Genval,House for sale,,None,B,None,,,None,None,,None,,,None,None,None
+350,Herent,House for sale,,"€ 405,000",F,None,,,None,None,None,None,,,5,None,None
+351,Héron Couthuin,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+352,Seraing,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+353,Ronse,House for sale,,"€ 85,000",F,None,,,None,None,,None,,,None,None,None
+354,FRAINEUX,House for sale,,"€ 1,080",None,None,,,None,None,None,None,,,None,None,None
+355,TIHANGE,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+356,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+357,Amay,House for sale,,"€ 140,000",C,None,,,None,None,,None,,,None,None,None
+358,Bertrix,House for sale,,"€ 149,000",F,22,,,None,None,,None,,,1,None,None
+359,Irchonwelz,Bungalow for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+360,Rochefort Jemelle,House for sale,,"€ 169,000",F,11,,,None,None,,None,,,None,None,None
+361,Jallet,House for sale,,"€ 185,000",C,None,,,None,None,,None,,,None,None,None
+362,La Roche-en-Ardenne,Mixed-use building for sale,,"€ 199,000",S,7,,,None,None,,None,,,None,None,None
+363,Neufchateau,House for sale,,"€ 205,000",S,6,,,None,None,,None,,,1,None,None
+364,Neufchâteau,Apartment block for sale,,"m²
+square meters",S,9,,,None,None,,None,,,1,None,None
+365,Fleurus,House for sale,,None,F,None,,,None,None,,None,,,3,None,None
+366,Houffalize,House for sale,,"€ 225,000",S,None,,,None,None,,None,,,1,None,None
+367,Maarkedal,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+368,Riemst,House for sale,,"€ 235,000",F,None,,,None,None,,None,,,None,None,None
+369,Lebbeke,House for sale,,"€ 239,500",F,7,,,None,None,,None,,,None,None,None
+370,None,Town-house for sale,,"€ 495,000",F,7,,,None,None,,None,,,1,None,None
+371,None,House for sale,,"€ 580,000",F,None,,,None,None,,None,,,1,None,None
+372,None,Villa for sale,,"€ 1,350,000",S,7,,,None,None,,None,,,2,None,None
+373,Kortrijk,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+374,None,Farmhouse for sale,,"€ 800,000",F,8,,,None,None,,None,,,30,None,None
+375,None,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+376,None,Exceptional property for sale,,None,C,None,,,None,None,,None,,,None,None,None
+377,Marchin,House for sale,,"€ 199,500",C,None,,,None,None,,None,,,None,None,None
+378,Tervuren,House for sale,,"€ 335,000",S,None,,,None,None,None,None,,,1,None,None
+379,Genval,House for sale,,None,B,None,,,None,None,,None,,,None,None,None
+380,Herent,House for sale,,"€ 405,000",F,None,,,None,None,None,None,,,5,None,None
+381,Héron Couthuin,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+382,Seraing,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+383,Ronse,House for sale,,"€ 85,000",F,None,,,None,None,,None,,,None,None,None
+384,FRAINEUX,House for sale,,"€ 1,080",None,None,,,None,None,None,None,,,None,None,None
+385,TIHANGE,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+386,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+387,Amay,House for sale,,"€ 140,000",C,None,,,None,None,,None,,,None,None,None
+388,Bertrix,House for sale,,"€ 149,000",F,22,,,None,None,,None,,,1,None,None
+389,Irchonwelz,Bungalow for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+390,Rochefort Jemelle,House for sale,,"€ 169,000",F,11,,,None,None,,None,,,None,None,None
+391,Jallet,House for sale,,"€ 185,000",C,None,,,None,None,,None,,,None,None,None
+392,La Roche-en-Ardenne,Mixed-use building for sale,,"€ 199,000",S,7,,,None,None,,None,,,None,None,None
+393,Neufchateau,House for sale,,"€ 205,000",S,6,,,None,None,,None,,,1,None,None
+394,Neufchâteau,Apartment block for sale,,"m²
+square meters",S,9,,,None,None,,None,,,1,None,None
+395,Fleurus,House for sale,,None,F,None,,,None,None,,None,,,3,None,None
+396,Houffalize,House for sale,,"€ 225,000",S,None,,,None,None,,None,,,1,None,None
+397,Maarkedal,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+398,Riemst,House for sale,,"€ 235,000",F,None,,,None,None,,None,,,None,None,None
+399,Lebbeke,House for sale,,"€ 239,500",F,7,,,None,None,,None,,,None,None,None
+400,BLAASVELD,House for sale,,"€ 249,000",F,None,,,None,None,,None,,,None,None,None
+401,Hoboken,House for sale,,"€ 249,950",C,None,,,None,None,None,None,,,None,None,None
+402,Deerlijk,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+403,Willebroek,House for sale,,"€ 265,000",F,None,,,None,None,,None,,,None,None,None
+404,Couthuin,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+405,Herstal,House for sale,,"€ 275,000",F,13,,,None,None,,None,,,None,None,None
+406,Heusden-Zolder,House for sale,,None,S,None,,,None,None,,None,,,2,None,None
+407,Merchtem,House for sale,,"€ 295,000",F,None,,,None,None,,None,,,None,None,None
+408,LA SARTE À HUY,House for sale,,"€ 295,000",F,None,,,None,None,,None,,,3,None,None
+409,Quaregnon,Exceptional property for sale,,None,C,9,,,None,None,,None,,,None,None,None
+410,Huy,Villa for sale,,None,F,None,,,None,None,,None,,,None,None,None
+411,Kruibeke,House for sale,,"€ 299,000",None,None,,,None,None,None,None,,,None,None,None
+412,Ronse,House for sale,,"€ 335,000",C,None,,,None,None,,None,,,None,None,None
+413,Saintes,House for sale,,"€ 340,000",None,25,,,None,None,,None,,,None,None,None
+414,Nandrin,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+415,FRAITURE,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+416,Tinlot,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+417,Ottignies-Louvain-la-Neuve,House for sale,,None,B,None,,,None,None,,None,,,3,None,None
+418,Gent,House for sale,,"€ 369,000",None,None,,,None,None,None,None,,,None,None,None
+419,Opwijk,House for sale,,"€ 370,000",F,None,,,None,None,,None,,,None,None,None
+420,SINT-GILLIS-WAAS,House for sale,,"€ 385,000",F,6,,,None,None,,None,,,2,None,None
+421,Zwijndrecht,House for sale,,"€ 395,000",O,None,,,None,None,,None,,,None,None,None
+422,VELTEM-BEISEM,Farmhouse for sale,,"€ 395,000",O,None,,,None,None,,None,,,None,None,None
+423,SINT-GILLIS-WAAS,Apartment block for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+424,AWIRS,House for sale,,"€ 419,000",C,None,,,None,None,,None,,,None,None,None
+425,Machelen,Mansion for sale,,"€ 425,000",C,None,,,None,None,,None,,,None,None,None
+426,CHAPELLE-À-OIE,Villa for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+427,VELTEM-BEISEM,Farmhouse for sale,,"€ 480,000",O,None,,,None,None,,None,,,None,None,None
+428,Wemmel,House for sale,,None,C,6,,,None,None,,None,,,None,None,None
+429,Etterbeek,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+430,BLAASVELD,House for sale,,"€ 249,000",F,None,,,None,None,,None,,,None,None,None
+431,Hoboken,House for sale,,"€ 249,950",C,None,,,None,None,None,None,,,None,None,None
+432,Deerlijk,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+433,Willebroek,House for sale,,"€ 265,000",F,None,,,None,None,,None,,,None,None,None
+434,Couthuin,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+435,Herstal,House for sale,,"€ 275,000",F,13,,,None,None,,None,,,None,None,None
+436,Heusden-Zolder,House for sale,,None,S,None,,,None,None,,None,,,2,None,None
+437,Merchtem,House for sale,,"€ 295,000",F,None,,,None,None,,None,,,None,None,None
+438,LA SARTE À HUY,House for sale,,"€ 295,000",F,None,,,None,None,,None,,,3,None,None
+439,Quaregnon,Exceptional property for sale,,None,C,9,,,None,None,,None,,,None,None,None
+440,Huy,Villa for sale,,None,F,None,,,None,None,,None,,,None,None,None
+441,Kruibeke,House for sale,,"€ 299,000",None,None,,,None,None,None,None,,,None,None,None
+442,Ronse,House for sale,,"€ 335,000",C,None,,,None,None,,None,,,None,None,None
+443,Saintes,House for sale,,"€ 340,000",None,25,,,None,None,,None,,,None,None,None
+444,Nandrin,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+445,FRAITURE,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+446,Tinlot,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+447,Ottignies-Louvain-la-Neuve,House for sale,,None,B,None,,,None,None,,None,,,3,None,None
+448,Gent,House for sale,,"€ 369,000",None,None,,,None,None,None,None,,,None,None,None
+449,Opwijk,House for sale,,"€ 370,000",F,None,,,None,None,,None,,,None,None,None
+450,SINT-GILLIS-WAAS,House for sale,,"€ 385,000",F,6,,,None,None,,None,,,2,None,None
+451,Zwijndrecht,House for sale,,"€ 395,000",O,None,,,None,None,,None,,,None,None,None
+452,VELTEM-BEISEM,Farmhouse for sale,,"€ 395,000",O,None,,,None,None,,None,,,None,None,None
+453,SINT-GILLIS-WAAS,Apartment block for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+454,AWIRS,House for sale,,"€ 419,000",C,None,,,None,None,,None,,,None,None,None
+455,Machelen,Mansion for sale,,"€ 425,000",C,None,,,None,None,,None,,,None,None,None
+456,CHAPELLE-À-OIE,Villa for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+457,VELTEM-BEISEM,Farmhouse for sale,,"€ 480,000",O,None,,,None,None,,None,,,None,None,None
+458,Wemmel,House for sale,,None,C,6,,,None,None,,None,,,None,None,None
+459,Etterbeek,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+460,Sterrebeek,House for sale,,None,C,5,,,None,None,,None,,,None,None,None
+461,Opwijk,Villa for sale,,None,F,None,,,None,None,None,None,,,2,None,None
+462,Rixensart,Villa for sale,,"€ 615,000",F,9,,,None,None,,None,,,None,None,None
+463,WINKSELE,Villa for sale,,"€ 625,000",F,None,,,None,None,,None,,,2,None,None
+464,Brugge,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+465,Halle,Villa for sale,,"€ 750,000",C,9,,,None,None,,None,,,None,None,None
+466,Alsemberg,House for sale,,"€ 795,000",C,10,,,None,None,None,None,,,Link to the virtual visit,None,None
+467,Dendermonde,House for sale,,"€ 799,000",None,None,,,None,None,None,None,,,None,None,None
+468,Landelies,Exceptional property for sale,,None,S,43,,,None,None,,None,,,1,None,None
+469,Temse,House for sale,,None,F,None,,,None,None,,None,,,4,None,None
+470,Tiegem,Villa for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+471,Ixelles,House for sale,,None,F,8,,,None,None,,None,,,None,None,None
+472,LAEKEN (BRU.),Villa for sale,,"€ 1,295,000",F,None,,,None,None,,None,,,None,None,None
+473,Huy,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+474,Arlon,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+475,Fleurus,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+476,Landen,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+477,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+478,Meix devant Virton,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+479,None,Mansion for sale,,None,None,7,,,None,None,,None,,,None,None,None
+480,Halle,House for sale,,"€ 399,000",C,None,,,None,None,,None,,,None,None,None
+481,Lembeek,House for sale,,"€ 399,000",C,None,,,None,None,None,None,,,None,None,None
+482,None,Villa for sale,,"€ 400,000",C,None,,,None,None,,None,,,None,None,None
+483,Kapelle-op-den-Bos,House for sale,,"€ 415,000",C,None,,,None,None,None,None,,,None,None,None
+484,None,Villa for sale,,"m²
+square meters",F,27,,,None,None,,None,,,2,None,None
+485,EKE,House for sale,,"€ 495,000",O,None,,,None,None,,None,,,None,None,None
+486,None,House for sale,,"€ 500,000",F,7,,,None,None,,None,,,None,None,None
+487,Dendermonde,Mixed-use building for sale,,"€ 519,000",None,None,,,None,None,,None,,,None,None,None
+488,Attert,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+489,Opwijk,House for sale,,"€ 650,000",C,28,,,None,None,,None,,,None,None,None
+490,Sterrebeek,House for sale,,None,C,5,,,None,None,,None,,,None,None,None
+491,Opwijk,Villa for sale,,None,F,None,,,None,None,None,None,,,2,None,None
+492,Rixensart,Villa for sale,,"€ 615,000",F,9,,,None,None,,None,,,None,None,None
+493,WINKSELE,Villa for sale,,"€ 625,000",F,None,,,None,None,,None,,,2,None,None
+494,Brugge,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+495,Halle,Villa for sale,,"€ 750,000",C,9,,,None,None,,None,,,None,None,None
+496,Alsemberg,House for sale,,"€ 795,000",C,10,,,None,None,None,None,,,Link to the virtual visit,None,None
+497,Dendermonde,House for sale,,"€ 799,000",None,None,,,None,None,None,None,,,None,None,None
+498,Landelies,Exceptional property for sale,,None,S,43,,,None,None,,None,,,1,None,None
+499,Temse,House for sale,,None,F,None,,,None,None,,None,,,4,None,None
+,Locality,Type of Property,Sub Type,Price,Type of Sale,No of Rooms,Area(sqft),Equipped(Y/N),Furnished(Y/N),Open Fire(Y/N),Terrace Area,Garden Area,Surface of the Land(sqft),Surface area of the Plot(sqft),No of Facades,Simming Pool(Y/N),State of the Building
+0,Ixelles,House for sale,,None,F,8,,,None,None,,None,,,None,None,None
+1,LAEKEN (BRU.),Villa for sale,,"€ 1,295,000",F,None,,,None,None,,None,,,None,None,None
+2,Huy,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+3,Arlon,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+4,Fleurus,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+5,Landen,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+6,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+7,Meix devant Virton,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+8,None,Mansion for sale,,None,None,7,,,None,None,,None,,,None,None,None
+9,Halle,House for sale,,"€ 399,000",C,None,,,None,None,,None,,,None,None,None
+10,Lembeek,House for sale,,"€ 399,000",C,None,,,None,None,None,None,,,None,None,None
+11,None,Villa for sale,,"€ 400,000",C,None,,,None,None,,None,,,None,None,None
+12,Kapelle-op-den-Bos,House for sale,,"€ 415,000",C,None,,,None,None,None,None,,,None,None,None
+13,None,Villa for sale,,"m²
+square meters",F,27,,,None,None,,None,,,2,None,None
+14,EKE,House for sale,,"€ 495,000",O,None,,,None,None,,None,,,None,None,None
+15,None,House for sale,,"€ 500,000",F,7,,,None,None,,None,,,None,None,None
+16,Dendermonde,Mixed-use building for sale,,"€ 519,000",None,None,,,None,None,,None,,,None,None,None
+17,Attert,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+18,Opwijk,House for sale,,"€ 650,000",C,28,,,None,None,,None,,,None,None,None
+19,None,House for sale,,None,F,12,,,None,None,,None,,,1,None,None
+20,None,Mansion for sale,,None,F,None,,,None,None,,None,,,None,None,None
+21,Uccle,House for sale,,None,O,7,,,None,None,,None,,,None,None,None
+22,None,Villa for sale,,None,F,None,,,None,None,,None,,,None,None,None
+23,None,Mansion for sale,,"€ 1,600,000",F,None,,,None,None,,None,,,None,None,None
+24,None,House for sale,,"m²
+square meters",F,16,,,None,None,,None,,,6,None,None
+25,Waremme,Apartment block for sale,,"€ 375,000",C,None,,,None,None,,None,,,None,None,None
+26,Sprimont Lincé,House for sale,,None,F,5,,,None,None,,None,,,1,None,None
+27,Huy,House for sale,,"€ 169,500",None,None,,,None,None,None,None,,,None,None,None
+28,Louveigné,Town-house for sale,,None,B,16,,,None,None,,None,,,1,None,None
+29,Onhaye Sommière,House for sale,,"€ 249,000",C,None,,,None,None,,None,,,None,None,None
+30,Clavier,House for sale,,None,C,8,,,None,None,,None,,,None,None,None
+31,Arlon,House for sale,,"€ 355,000",O,None,,,None,None,,None,,,None,None,None
+32,GREMBERGEN,Villa for sale,,"€ 460,000",C,16,,,None,None,,None,,,None,None,None
+33,Meise,Villa for sale,,"€ 795,000",None,None,,,None,None,,None,,,None,None,None
+34,NeufchÃteau Grandvoir,House for sale,,"€ 129,000",F,58,,,None,None,None,None,,,None,None,None
+35,Huy,House for sale,,"€ 179,500",None,None,,,None,None,,None,,,None,None,None
+36,Ouffet,House for sale,,None,C,11,,,None,None,,None,,,None,None,None
+37,AMPSIN,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+38,Libramont-Chevigny - Sberchamps,House for sale,,"m²
+square meters",F,18,,,None,None,,None,,,3,None,None
+39,BROECHEM,House for sale,,"€ 398,000",C,None,,,None,None,None,None,,,None,None,None
+40,None,Villa for sale,,"€ 398,000",S,7,,,None,None,,None,,,1,None,None
+41,Wetteren,House for sale,,"€ 449,000",C,None,,,None,None,,None,,,None,None,None
+42,None,House for sale,,None,S,None,,,None,None,,None,,,1,None,None
+43,OUGRÉE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+44,Seraing,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+45,TIHANGE,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+46,None,House for sale,,"€ 250,000",C,None,,,None,None,,None,,,None,None,None
+47,None,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+48,None,Villa for sale,,"€ 289,000",O,None,,,None,None,,None,,,None,None,None
+49,None,House for sale,,None,F,12,,,None,None,,None,,,1,None,None
+50,None,Mansion for sale,,None,F,None,,,None,None,,None,,,None,None,None
+51,Uccle,House for sale,,None,O,7,,,None,None,,None,,,None,None,None
+52,None,Villa for sale,,None,F,None,,,None,None,,None,,,None,None,None
+53,None,Mansion for sale,,"€ 1,600,000",F,None,,,None,None,,None,,,None,None,None
+54,None,House for sale,,"m²
+square meters",F,16,,,None,None,,None,,,6,None,None
+55,Waremme,Apartment block for sale,,"€ 375,000",C,None,,,None,None,,None,,,None,None,None
+56,Sprimont Lincé,House for sale,,None,F,5,,,None,None,,None,,,1,None,None
+57,Huy,House for sale,,"€ 169,500",None,None,,,None,None,None,None,,,None,None,None
+58,Louveigné,Town-house for sale,,None,B,16,,,None,None,,None,,,1,None,None
+59,Onhaye Sommière,House for sale,,"€ 249,000",C,None,,,None,None,,None,,,None,None,None
+60,Clavier,House for sale,,None,C,8,,,None,None,,None,,,None,None,None
+61,Arlon,House for sale,,"€ 355,000",O,None,,,None,None,,None,,,None,None,None
+62,GREMBERGEN,Villa for sale,,"€ 460,000",C,16,,,None,None,,None,,,None,None,None
+63,Meise,Villa for sale,,"€ 795,000",None,None,,,None,None,,None,,,None,None,None
+64,NeufchÃteau Grandvoir,House for sale,,"€ 129,000",F,58,,,None,None,None,None,,,None,None,None
+65,Huy,House for sale,,"€ 179,500",None,None,,,None,None,,None,,,None,None,None
+66,Ouffet,House for sale,,None,C,11,,,None,None,,None,,,None,None,None
+67,AMPSIN,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+68,Libramont-Chevigny - Sberchamps,House for sale,,"m²
+square meters",F,18,,,None,None,,None,,,3,None,None
+69,BROECHEM,House for sale,,"€ 398,000",C,None,,,None,None,None,None,,,None,None,None
+70,None,Villa for sale,,"€ 398,000",S,7,,,None,None,,None,,,1,None,None
+71,Wetteren,House for sale,,"€ 449,000",C,None,,,None,None,,None,,,None,None,None
+72,None,House for sale,,None,S,None,,,None,None,,None,,,1,None,None
+73,OUGRÉE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+74,Seraing,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+75,TIHANGE,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+76,None,House for sale,,"€ 250,000",C,None,,,None,None,,None,,,None,None,None
+77,None,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+78,None,Villa for sale,,"€ 289,000",O,None,,,None,None,,None,,,None,None,None
+79,DEFTINGE,Villa for sale,,None,O,None,,,None,None,,None,,,None,None,None
+80,Affligem,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+81,None,House for sale,,None,C,8,,,None,None,,None,,,None,None,None
+82,Geraardsbergen,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+83,None,House for sale,,None,F,10,,,None,None,,None,,,None,None,None
+84,None,Villa for sale,,"m²
+square meters",F,13,,,None,None,,None,,,None,None,None
+85,Trooz,House for sale,,None,None,6,,,None,None,,None,,,None,None,None
+86,Wanfercée-Baulet,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+87,Forchies-la-Marche,House for sale,,"€ 225,000",F,None,,,None,None,,None,,,3,None,None
+88,Tintigny,House for sale,,None,F,None,,,None,None,,None,,,5,None,None
+89,Aalst,Villa for sale,,None,O,None,,,None,None,,None,,,None,None,None
+90,Aalst,Exceptional property for sale,,None,O,None,,,None,None,,None,,,None,None,None
+91,Bertrix,House for sale,,"€ 125,000",F,22,,,None,None,,None,,,2,None,None
+92,None,Villa for sale,,None,S,7,,,None,None,,None,,,1,None,None
+93,BROECHEM,House for sale,,"€ 395,000",F,None,,,None,None,,None,,,None,None,None
+94,None,House for sale,,None,S,9,,,None,None,,None,,,1,None,None
+95,Woluwe-St-Pierre,House for sale,,"€ 495,000",F,None,,,None,None,,None,,,None,None,None
+96,Liège Chênée,House for sale,,None,F,5,,,None,None,,None,,,None,None,None
+97,HUISSIGNIES,House for sale,,"€ 175,000",None,None,,,None,None,,None,,,None,None,None
+98,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+99,Willebroek,House for sale,,"€ 330,000",None,7,,,None,None,,None,,,None,None,None
+100,None,Villa for sale,,"€ 350,000",S,9,,,None,None,,None,,,2,None,None
+101,None,Exceptional property for sale,,"m²
+square meters",S,10,,,None,None,,None,,,None,None,None
+102,None,Villa for sale,,None,F,89,,,None,None,,None,,,2,None,None
+103,Erembodegem,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+104,Blankenberge,Apartment block for sale,,"€ 250,000",None,None,,,None,None,None,None,,,None,None,None
+105,Virton,House for sale,,"€ 335,000",F,22,,,None,None,,None,,,1,None,None
+106,Laeken,Apartment block for sale,,"€ 398,000",None,None,,,None,None,,None,,,None,None,None
+107,Jette,Mixed-use building for sale,,"€ 469,000",None,None,,,None,None,None,None,,,None,None,None
+108,Uccle,House for sale,,None,B,7,,,None,None,,None,,,2,None,None
+109,DEFTINGE,Villa for sale,,None,O,None,,,None,None,,None,,,None,None,None
+110,Affligem,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+111,None,House for sale,,None,C,8,,,None,None,,None,,,None,None,None
+112,Geraardsbergen,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+113,None,House for sale,,None,F,10,,,None,None,,None,,,None,None,None
+114,None,Villa for sale,,"m²
+square meters",F,13,,,None,None,,None,,,None,None,None
+115,Trooz,House for sale,,None,None,6,,,None,None,,None,,,None,None,None
+116,Wanfercée-Baulet,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+117,Forchies-la-Marche,House for sale,,"€ 225,000",F,None,,,None,None,,None,,,3,None,None
+118,Tintigny,House for sale,,None,F,None,,,None,None,,None,,,5,None,None
+119,Aalst,Villa for sale,,None,O,None,,,None,None,,None,,,None,None,None
+120,Aalst,Exceptional property for sale,,None,O,None,,,None,None,,None,,,None,None,None
+121,Bertrix,House for sale,,"€ 125,000",F,22,,,None,None,,None,,,2,None,None
+122,None,Villa for sale,,None,S,7,,,None,None,,None,,,1,None,None
+123,BROECHEM,House for sale,,"€ 395,000",F,None,,,None,None,,None,,,None,None,None
+124,None,House for sale,,None,S,9,,,None,None,,None,,,1,None,None
+125,Woluwe-St-Pierre,House for sale,,"€ 495,000",F,None,,,None,None,,None,,,None,None,None
+126,Liège Chênée,House for sale,,None,F,5,,,None,None,,None,,,None,None,None
+127,HUISSIGNIES,House for sale,,"€ 175,000",None,None,,,None,None,,None,,,None,None,None
+128,Ronse,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+129,Willebroek,House for sale,,"€ 330,000",None,7,,,None,None,,None,,,None,None,None
+130,None,Villa for sale,,"€ 350,000",S,9,,,None,None,,None,,,2,None,None
+131,None,Exceptional property for sale,,"m²
+square meters",S,10,,,None,None,,None,,,None,None,None
+132,None,Villa for sale,,None,F,89,,,None,None,,None,,,2,None,None
+133,Erembodegem,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+134,Blankenberge,Apartment block for sale,,"€ 250,000",None,None,,,None,None,None,None,,,None,None,None
+135,Virton,House for sale,,"€ 335,000",F,22,,,None,None,,None,,,1,None,None
+136,Laeken,Apartment block for sale,,"€ 398,000",None,None,,,None,None,,None,,,None,None,None
+137,Jette,Mixed-use building for sale,,"€ 469,000",None,None,,,None,None,None,None,,,None,None,None
+138,Uccle,House for sale,,None,B,7,,,None,None,,None,,,2,None,None
+139,Woluwe-Saint-Pierre,Mixed-use building for sale,,"€ 550,000",B,None,,,None,None,,None,,,1,None,None
+140,Schaerbeek,Mansion for sale,,None,F,10,,,None,None,,None,,,None,None,None
+141,Jabbeke,Country house for sale,,None,C,None,,,None,None,,None,,,None,None,None
+142,Etterbeek,Mixed-use building for sale,,"€ 1,150,000",None,None,,,None,None,,None,,,None,None,None
+143,Knokke-Heist,Villa for sale,,None,B,11,,,None,None,,None,,,1,None,None
+144,Uccle,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+145,None,Villa for sale,,None,F,29,,,None,None,,None,,,Link to the virtual visit,None,None
+146,None,House for sale,,None,F,51,,,None,None,,None,,,6,None,None
+147,None,Mansion for sale,,None,F,None,,,None,None,,None,,,2,None,None
+148,Chaudfontaine,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+149,Waterloo,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+150,Gent,Mixed-use building for sale,,"€ 498,000",C,9,,,None,None,,None,,,None,None,None
+151,Gent,House for sale,,"€ 498,000",C,9,,,None,None,,None,,,None,None,None
+152,Woluwe-Saint-Lambert,House for sale,,"€ 550,000",F,None,,,None,None,,None,,,None,None,None
+153,Huy,House for sale,,"€ 185,000",S,43,,,None,None,,None,,,Link to the virtual visit,None,None
+154,ELSEGEM,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+155,Eghezee,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+156,Eghezee,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+157,Sint-Lievens-Houtem,House for sale,,"€ 449,000",V,None,,,None,None,,None,,,None,None,None
+158,Braine-l'Alleud,House for sale,,"€ 485,000",B,None,,,None,None,,None,,,1,None,None
+159,Kapelle-op-den-Bos,Villa for sale,,"€ 685,000",O,13,,,None,None,,None,,,None,None,None
+160,Merelbeke,Villa for sale,,"€ 869,000",None,None,,,None,None,,None,,,None,None,None
+161,Woluwe-Saint-Pierre,Villa for sale,,None,B,10,,,None,None,,None,,,1,None,None
+162,Woluwe-Saint-Pierre,Villa for sale,,"€ 5,950,000",F,12,,,None,None,,None,,,1,None,None
+163,Ath,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+164,AHIN,Apartment block for sale,,"€ 225,000",None,None,,,None,None,,None,,,None,None,None
+165,AHIN,House for sale,,"€ 225,000",None,None,,,None,None,,None,,,None,None,None
+166,Virton,House for sale,,"€ 319,000",F,6,,,None,None,,None,,,None,None,None
+167,None,House for sale,,None,F,8,,,None,None,,None,,,3,None,None
+168,Hasselt,House for sale,,None,C,18,,,None,None,,None,,,Link to the virtual visit,None,None
+169,Woluwe-Saint-Pierre,Mixed-use building for sale,,"€ 550,000",B,None,,,None,None,,None,,,1,None,None
+170,Schaerbeek,Mansion for sale,,None,F,10,,,None,None,,None,,,None,None,None
+171,Jabbeke,Country house for sale,,None,C,None,,,None,None,,None,,,None,None,None
+172,Etterbeek,Mixed-use building for sale,,"€ 1,150,000",None,None,,,None,None,,None,,,None,None,None
+173,Knokke-Heist,Villa for sale,,None,B,11,,,None,None,,None,,,1,None,None
+174,Uccle,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+175,None,Villa for sale,,None,F,29,,,None,None,,None,,,Link to the virtual visit,None,None
+176,None,House for sale,,None,F,51,,,None,None,,None,,,6,None,None
+177,None,Mansion for sale,,None,F,None,,,None,None,,None,,,2,None,None
+178,Chaudfontaine,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+179,Waterloo,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+180,Gent,Mixed-use building for sale,,"€ 498,000",C,9,,,None,None,,None,,,None,None,None
+181,Gent,House for sale,,"€ 498,000",C,9,,,None,None,,None,,,None,None,None
+182,Woluwe-Saint-Lambert,House for sale,,"€ 550,000",F,None,,,None,None,,None,,,None,None,None
+183,Huy,House for sale,,"€ 185,000",S,43,,,None,None,,None,,,Link to the virtual visit,None,None
+184,ELSEGEM,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+185,Eghezee,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+186,Eghezee,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+187,Sint-Lievens-Houtem,House for sale,,"€ 449,000",V,None,,,None,None,,None,,,None,None,None
+188,Braine-l'Alleud,House for sale,,"€ 485,000",B,None,,,None,None,,None,,,1,None,None
+189,Kapelle-op-den-Bos,Villa for sale,,"€ 685,000",O,13,,,None,None,,None,,,None,None,None
+190,Merelbeke,Villa for sale,,"€ 869,000",None,None,,,None,None,,None,,,None,None,None
+191,Woluwe-Saint-Pierre,Villa for sale,,None,B,10,,,None,None,,None,,,1,None,None
+192,Woluwe-Saint-Pierre,Villa for sale,,"€ 5,950,000",F,12,,,None,None,,None,,,1,None,None
+193,Ath,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+194,AHIN,Apartment block for sale,,"€ 225,000",None,None,,,None,None,,None,,,None,None,None
+195,AHIN,House for sale,,"€ 225,000",None,None,,,None,None,,None,,,None,None,None
+196,Virton,House for sale,,"€ 319,000",F,6,,,None,None,,None,,,None,None,None
+197,None,House for sale,,None,F,8,,,None,None,,None,,,3,None,None
+198,Hasselt,House for sale,,None,C,18,,,None,None,,None,,,Link to the virtual visit,None,None
+199,Hasselt,Villa for sale,,None,C,18,,,None,None,,None,,,Link to the virtual visit,None,None
+200,SINT-NIKLAAS,House for sale,,"€ 269,000",None,None,,,None,None,,None,,,None,None,None
+201,None,Exceptional property for sale,,"€ 1,695,000",S,14,,,None,None,,None,,,2,None,None
+202,None,Villa for sale,,None,F,10,,,None,None,,None,,,2,None,None
+203,Huy,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+204,LAVOIR,House for sale,,"€ 249,500",C,None,,,None,None,,None,,,None,None,None
+205,Gentbrugge,House for sale,,"€ 295,000",None,57,,,None,None,,None,,,None,None,None
+206,None,Villa for sale,,None,S,13,,,None,None,,None,,,2,None,None
+207,Amay,House for sale,,"€ 199,000",F,None,,,None,None,,None,,,1,None,None
+208,Habay,House for sale,,"€ 250,000",F,6,,,None,None,,None,,,1,None,None
+209,Ecaussinnes,Villa for sale,,"€ 289,000",F,19,,,None,None,,None,,,None,None,None
+210,Virton Saint-Mard,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+211,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+212,BEN-AHIN,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+213,LIGNY,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+214,LIGNY,Apartment block for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+215,Longlier,House for sale,,"m²
+square meters",C,7,,,None,None,,None,,,None,None,None
+216,FLÉMALLE-GRANDE,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+217,None,Villa for sale,,"€ 320,000",S,8,,,None,None,,None,,,1,None,None
+218,None,Villa for sale,,"€ 395,000",S,7,,,None,None,,None,,,1,None,None
+219,Pont-à-Celles,Villa for sale,,"€ 399,000",F,None,,,None,None,,None,,,4,None,None
+220,None,House for sale,,"€ 780,000",S,9,,,None,None,,None,,,None,None,None
+221,Kortrijk,House for sale,,None,None,7,,,None,None,,None,,,None,None,None
+222,Avelgem,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+223,None,House for sale,,"€ 275,000",C,None,,,None,None,,None,,,None,None,None
+224,None,House for sale,,"€ 299,000",O,32,,,None,None,,None,,,None,None,None
+225,LANDEGEM,House for sale,,"€ 334,000",None,None,,,None,None,None,None,,,None,None,None
+226,Willebroek,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+227,None,House for sale,,"€ 630,000",F,None,,,None,None,,None,,,1,None,None
+228,COMBLAIN-LA-TOUR,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+229,Hasselt,Villa for sale,,None,C,18,,,None,None,,None,,,Link to the virtual visit,None,None
+230,SINT-NIKLAAS,House for sale,,"€ 269,000",None,None,,,None,None,,None,,,None,None,None
+231,None,Exceptional property for sale,,"€ 1,695,000",S,14,,,None,None,,None,,,2,None,None
+232,None,Villa for sale,,None,F,10,,,None,None,,None,,,2,None,None
+233,Huy,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+234,LAVOIR,House for sale,,"€ 249,500",C,None,,,None,None,,None,,,None,None,None
+235,Gentbrugge,House for sale,,"€ 295,000",None,57,,,None,None,,None,,,None,None,None
+236,None,Villa for sale,,None,S,13,,,None,None,,None,,,2,None,None
+237,Amay,House for sale,,"€ 199,000",F,None,,,None,None,,None,,,1,None,None
+238,Habay,House for sale,,"€ 250,000",F,6,,,None,None,,None,,,1,None,None
+239,Ecaussinnes,Villa for sale,,"€ 289,000",F,19,,,None,None,,None,,,None,None,None
+240,Virton Saint-Mard,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+241,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+242,BEN-AHIN,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+243,LIGNY,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+244,LIGNY,Apartment block for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+245,Longlier,House for sale,,"m²
+square meters",C,7,,,None,None,,None,,,None,None,None
+246,FLÉMALLE-GRANDE,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+247,None,Villa for sale,,"€ 320,000",S,8,,,None,None,,None,,,1,None,None
+248,None,Villa for sale,,"€ 395,000",S,7,,,None,None,,None,,,1,None,None
+249,Pont-à-Celles,Villa for sale,,"€ 399,000",F,None,,,None,None,,None,,,4,None,None
+250,None,House for sale,,"€ 780,000",S,9,,,None,None,,None,,,None,None,None
+251,Kortrijk,House for sale,,None,None,7,,,None,None,,None,,,None,None,None
+252,Avelgem,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+253,None,House for sale,,"€ 275,000",C,None,,,None,None,,None,,,None,None,None
+254,None,House for sale,,"€ 299,000",O,32,,,None,None,,None,,,None,None,None
+255,LANDEGEM,House for sale,,"€ 334,000",None,None,,,None,None,None,None,,,None,None,None
+256,Willebroek,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+257,None,House for sale,,"€ 630,000",F,None,,,None,None,,None,,,1,None,None
+258,COMBLAIN-LA-TOUR,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+259,Antwerp,House for sale,,"€ 279,950",None,None,,,None,None,,None,,,None,None,None
+260,KNOKKE-ZOUTE,Villa for sale,,"€ 2,785,000",F,12,,,None,None,,None,,,2,None,None
+261,Modave,House for sale,,€ 649,None,None,,,None,None,None,None,,,None,None,None
+262,Huy,House for sale,,"€ 90,000",None,None,,,None,None,None,None,,,None,None,None
+263,Chaudfontaine Vauxsous-Chèvremont,House for sale,,"€ 119,000",B,None,,,None,None,,None,,,None,None,None
+264,OUGRÉE,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+265,Liège,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+266,Huy,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+267,Bassenge Eben-Emael,House for sale,,None,F,23,,,None,None,,None,,,None,None,None
+268,Trooz,House for sale,,None,F,6,,,None,None,,None,,,None,None,None
+269,Charleroi Ransart,House for sale,,"€ 135,000",F,None,,,None,None,,None,,,None,None,None
+270,SAINT-MARD,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+271,Chaudfontaine Vaux-sous-Chèvremont,House for sale,,None,F,5,,,None,None,,None,,,None,None,None
+272,AWIRS,House for sale,,"€ 155,000",None,None,,,None,None,None,None,,,None,None,None
+273,Neufchateau,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+274,Bastogne,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+275,ChÃtelet,House for sale,,None,F,7,,,None,None,,None,,,1,None,None
+276,Bastogne,House for sale,,None,F,None,,,None,None,,None,,,3,None,None
+277,Liège Grivegnée,House for sale,,None,B,6,,,None,None,,None,,,2,None,None
+278,Charleroi,Mixed-use building for sale,,None,F,None,,,None,None,,None,,,None,None,None
+279,Houffalize,House for sale,,None,F,6,,,None,None,,None,,,None,None,None
+280,Courcelles,Mixed-use building for sale,,"€ 199,000",F,None,,,None,None,,None,,,None,None,None
+281,BELLEGEM,House for sale,,"€ 199,000",None,None,,,None,None,,None,,,None,None,None
+282,Liège,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+283,Dison Andrimont,House for sale,,"€ 205,000",B,7,,,None,None,,None,,,1,None,None
+284,Liedekerke,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+285,DE KLINGE,House for sale,,"€ 209,000",F,None,,,None,None,None,None,,,None,None,None
+286,SINT-AMANDS,House for sale,,"€ 210,000",C,None,,,None,None,,None,,,None,None,None
+287,Landen,House for sale,,"€ 210,000",F,None,,,None,None,None,None,,,3,None,None
+288,PUURS,House for sale,,"€ 214,000",None,None,,,None,None,,None,,,None,None,None
+289,Antwerp,House for sale,,"€ 279,950",None,None,,,None,None,,None,,,None,None,None
+290,KNOKKE-ZOUTE,Villa for sale,,"€ 2,785,000",F,12,,,None,None,,None,,,2,None,None
+291,Modave,House for sale,,€ 649,None,None,,,None,None,None,None,,,None,None,None
+292,Huy,House for sale,,"€ 90,000",None,None,,,None,None,None,None,,,None,None,None
+293,Chaudfontaine Vauxsous-Chèvremont,House for sale,,"€ 119,000",B,None,,,None,None,,None,,,None,None,None
+294,OUGRÉE,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+295,Liège,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+296,Huy,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+297,Bassenge Eben-Emael,House for sale,,None,F,23,,,None,None,,None,,,None,None,None
+298,Trooz,House for sale,,None,F,6,,,None,None,,None,,,None,None,None
+299,Charleroi Ransart,House for sale,,"€ 135,000",F,None,,,None,None,,None,,,None,None,None
+300,SAINT-MARD,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+301,Chaudfontaine Vaux-sous-Chèvremont,House for sale,,None,F,5,,,None,None,,None,,,None,None,None
+302,AWIRS,House for sale,,"€ 155,000",None,None,,,None,None,None,None,,,None,None,None
+303,Neufchateau,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+304,Bastogne,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+305,ChÃtelet,House for sale,,None,F,7,,,None,None,,None,,,1,None,None
+306,Bastogne,House for sale,,None,F,None,,,None,None,,None,,,3,None,None
+307,Liège Grivegnée,House for sale,,None,B,6,,,None,None,,None,,,2,None,None
+308,Charleroi,Mixed-use building for sale,,None,F,None,,,None,None,,None,,,None,None,None
+309,Houffalize,House for sale,,None,F,6,,,None,None,,None,,,None,None,None
+310,Courcelles,Mixed-use building for sale,,"€ 199,000",F,None,,,None,None,,None,,,None,None,None
+311,BELLEGEM,House for sale,,"€ 199,000",None,None,,,None,None,,None,,,None,None,None
+312,Liège,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+313,Dison Andrimont,House for sale,,"€ 205,000",B,7,,,None,None,,None,,,1,None,None
+314,Liedekerke,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+315,DE KLINGE,House for sale,,"€ 209,000",F,None,,,None,None,None,None,,,None,None,None
+316,SINT-AMANDS,House for sale,,"€ 210,000",C,None,,,None,None,,None,,,None,None,None
+317,Landen,House for sale,,"€ 210,000",F,None,,,None,None,None,None,,,3,None,None
+318,PUURS,House for sale,,"€ 214,000",None,None,,,None,None,,None,,,None,None,None
+319,Boom,House for sale,,"€ 219,000",F,None,,,None,None,,None,,,None,None,None
+320,Glabbeek,House for sale,,"€ 229,000",C,None,,,None,None,,None,,,None,None,None
+321,Ath,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+322,Braine-l'Alleud,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+323,Héron Waretl'Evêque,House for sale,,"€ 240,000",F,44,,,None,None,,None,,,2,None,None
+324,Beerse,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+325,Waregem,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+326,Schoten,House for sale,,"€ 250,000",F,None,,,None,None,,None,,,None,None,None
+327,PIRONCHAMPS,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+328,Fauvillers,House for sale,,"€ 250,000",F,None,,,None,None,,None,,,3,None,None
+329,Court-Saint-Etienne,House for sale,,"€ 255,000",F,6,,,None,None,,None,,,None,None,None
+330,Scherpenheuvel,House for sale,,"€ 255,000",C,None,,,None,None,None,None,,,None,None,None
+331,BONCELLES,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+332,Liège Bressoux,Mixed-use building for sale,,None,F,None,,,None,None,,None,,,None,None,None
+333,Froidchapelle,Villa for sale,,None,F,8,,,None,None,,None,,,6,None,None
+334,Wanze,Villa for sale,,"€ 275,000",None,None,,,None,None,,None,,,None,None,None
+335,Châtelet,Villa for sale,,"€ 279,000",F,None,,,None,None,,None,,,3,None,None
+336,Willebroek,House for sale,,"€ 297,000",C,None,,,None,None,,None,,,None,None,None
+337,Limal,Mixed-use building for sale,,None,B,None,,,None,None,,None,,,2,None,None
+338,Bastogne,House for sale,,"€ 300,000",F,9,,,None,None,,None,,,None,None,None
+339,Nassogne,Mixed-use building for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+340,Liege,House for sale,,"€ 320,000",F,8,,,None,None,,None,,,None,None,None
+341,Aubange Athus,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+342,Seraing,House for sale,,None,C,7,,,None,None,,None,,,None,None,None
+343,Ecaussinnes,Villa for sale,,"€ 335,000",F,5,,,None,None,,None,,,None,None,None
+344,Ronse,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+345,Libramont-Chevigny,House for sale,,None,F,10,,,None,None,,None,,,3,None,None
+346,Avelgem,Villa for sale,,"€ 339,000",None,None,,,None,None,,None,,,None,None,None
+347,MOLLEM,House for sale,,"€ 340,000",C,None,,,None,None,,None,,,None,None,None
+348,Latour,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+349,Boom,House for sale,,"€ 219,000",F,None,,,None,None,,None,,,None,None,None
+350,Glabbeek,House for sale,,"€ 229,000",C,None,,,None,None,,None,,,None,None,None
+351,Ath,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+352,Braine-l'Alleud,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+353,Héron Waretl'Evêque,House for sale,,"€ 240,000",F,44,,,None,None,,None,,,2,None,None
+354,Beerse,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+355,Waregem,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+356,Schoten,House for sale,,"€ 250,000",F,None,,,None,None,,None,,,None,None,None
+357,PIRONCHAMPS,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+358,Fauvillers,House for sale,,"€ 250,000",F,None,,,None,None,,None,,,3,None,None
+359,Court-Saint-Etienne,House for sale,,"€ 255,000",F,6,,,None,None,,None,,,None,None,None
+360,Scherpenheuvel,House for sale,,"€ 255,000",C,None,,,None,None,None,None,,,None,None,None
+361,BONCELLES,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+362,Liège Bressoux,Mixed-use building for sale,,None,F,None,,,None,None,,None,,,None,None,None
+363,Froidchapelle,Villa for sale,,None,F,8,,,None,None,,None,,,6,None,None
+364,Wanze,Villa for sale,,"€ 275,000",None,None,,,None,None,,None,,,None,None,None
+365,Châtelet,Villa for sale,,"€ 279,000",F,None,,,None,None,,None,,,3,None,None
+366,Willebroek,House for sale,,"€ 297,000",C,None,,,None,None,,None,,,None,None,None
+367,Limal,Mixed-use building for sale,,None,B,None,,,None,None,,None,,,2,None,None
+368,Bastogne,House for sale,,"€ 300,000",F,9,,,None,None,,None,,,None,None,None
+369,Nassogne,Mixed-use building for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+370,Liege,House for sale,,"€ 320,000",F,8,,,None,None,,None,,,None,None,None
+371,Aubange Athus,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+372,Seraing,House for sale,,None,C,7,,,None,None,,None,,,None,None,None
+373,Ecaussinnes,Villa for sale,,"€ 335,000",F,5,,,None,None,,None,,,None,None,None
+374,Ronse,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+375,Libramont-Chevigny,House for sale,,None,F,10,,,None,None,,None,,,3,None,None
+376,Avelgem,Villa for sale,,"€ 339,000",None,None,,,None,None,,None,,,None,None,None
+377,MOLLEM,House for sale,,"€ 340,000",C,None,,,None,None,,None,,,None,None,None
+378,Latour,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+379,Waterloo,House for sale,,"€ 345,000",F,None,,,None,None,,None,,,1,None,None
+380,Waterloo,House for sale,,None,F,None,,,None,None,,None,,,1,None,None
+381,Braine-l'Alleud,House for sale,,"€ 345,000",B,None,,,None,None,,None,,,None,None,None
+382,FALISOLLE,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+383,Stockem,House for sale,,"€ 349,000",F,None,,,None,None,,None,,,None,None,None
+384,Deinze,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+385,Chaumont-Gistoux,Villa for sale,,"m²
+square meters",F,None,,,None,None,,None,,,1,None,None
+386,Haaltert,Villa for sale,,None,F,7,,,None,None,,None,,,4,None,None
+387,La Hulpe,House for sale,,None,B,None,,,None,None,,None,,,None,None,None
+388,Rixensart,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+389,Rixensart,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+390,Braine-l'Alleud,Town-house for sale,,None,F,None,,,None,None,,None,,,1,None,None
+391,Arlon,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+392,Rixensart,Villa for sale,,"€ 385,000",B,None,,,None,None,,None,,,1,None,None
+393,Braine-l'Alleud,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+394,Gerpinnes,House for sale,,None,V,6,,,None,None,None,None,,,None,None,None
+395,Waterloo,House for sale,,None,F,9,,,None,None,,None,,,1,None,None
+396,Trooz,Villa for sale,,"€ 389,000",F,7,,,None,None,,None,,,3,None,None
+397,Haine-Saint-Pierre,Farmhouse for sale,,None,C,7,,,None,None,,None,,,None,None,None
+398,Dworp,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+399,HINGENE,Villa for sale,,"€ 395,000",F,None,,,None,None,,None,,,None,None,None
+400,Schaerbeek,House for sale,,None,B,8,,,None,None,,None,,,2,None,None
+401,Rixensart,Villa for sale,,"€ 425,000",B,None,,,None,None,,None,,,1,None,None
+402,Braine-l'Alleud,House for sale,,None,F,8,,,None,None,,None,,,2,None,None
+403,Wavre,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+404,Louvain-La-Neuve,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+405,Saint-Ghislain Hautrage,House for sale,,"€ 435,000",O,11,,,None,None,,None,,,None,None,None
+406,SIPPENAEKEN,Villa for sale,,None,C,12,,,None,None,,None,,,None,None,None
+407,Scherpenheuvel,Apartment block for sale,,"€ 445,000",None,None,,,None,None,None,None,,,None,None,None
+408,Libramont-Chevigny,House for sale,,None,F,10,,,None,None,,None,,,None,None,None
+409,Waterloo,House for sale,,"€ 345,000",F,None,,,None,None,,None,,,1,None,None
+410,Waterloo,House for sale,,None,F,None,,,None,None,,None,,,1,None,None
+411,Braine-l'Alleud,House for sale,,"€ 345,000",B,None,,,None,None,,None,,,None,None,None
+412,FALISOLLE,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+413,Stockem,House for sale,,"€ 349,000",F,None,,,None,None,,None,,,None,None,None
+414,Deinze,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+415,Chaumont-Gistoux,Villa for sale,,"m²
+square meters",F,None,,,None,None,,None,,,1,None,None
+416,Haaltert,Villa for sale,,None,F,7,,,None,None,,None,,,4,None,None
+417,La Hulpe,House for sale,,None,B,None,,,None,None,,None,,,None,None,None
+418,Rixensart,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+419,Rixensart,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+420,Braine-l'Alleud,Town-house for sale,,None,F,None,,,None,None,,None,,,1,None,None
+421,Arlon,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+422,Rixensart,Villa for sale,,"€ 385,000",B,None,,,None,None,,None,,,1,None,None
+423,Braine-l'Alleud,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+424,Gerpinnes,House for sale,,None,V,6,,,None,None,None,None,,,None,None,None
+425,Waterloo,House for sale,,None,F,9,,,None,None,,None,,,1,None,None
+426,Trooz,Villa for sale,,"€ 389,000",F,7,,,None,None,,None,,,3,None,None
+427,Haine-Saint-Pierre,Farmhouse for sale,,None,C,7,,,None,None,,None,,,None,None,None
+428,Dworp,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+429,HINGENE,Villa for sale,,"€ 395,000",F,None,,,None,None,,None,,,None,None,None
+430,Schaerbeek,House for sale,,None,B,8,,,None,None,,None,,,2,None,None
+431,Rixensart,Villa for sale,,"€ 425,000",B,None,,,None,None,,None,,,1,None,None
+432,Braine-l'Alleud,House for sale,,None,F,8,,,None,None,,None,,,2,None,None
+433,Wavre,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+434,Louvain-La-Neuve,House for sale,,None,B,None,,,None,None,,None,,,2,None,None
+435,Saint-Ghislain Hautrage,House for sale,,"€ 435,000",O,11,,,None,None,,None,,,None,None,None
+436,SIPPENAEKEN,Villa for sale,,None,C,12,,,None,None,,None,,,None,None,None
+437,Scherpenheuvel,Apartment block for sale,,"€ 445,000",None,None,,,None,None,None,None,,,None,None,None
+438,Libramont-Chevigny,House for sale,,None,F,10,,,None,None,,None,,,None,None,None
+439,Nukerke,House for sale,,"€ 460,000",O,None,,,None,None,,None,,,None,None,None
+440,Ittre,Villa for sale,,"€ 465,000",B,9,,,None,None,,None,,,2,None,None
+441,Lasne,Villa for sale,,"€ 470,000",B,None,,,None,None,,None,,,6,None,None
+442,Buggenhout,House for sale,,"€ 476,000",C,None,,,None,None,,None,,,None,None,None
+443,Linkebeek,House for sale,,"€ 478,000",C,None,,,None,None,,None,,,None,None,None
+444,Rixensart,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+445,Waterloo,Villa for sale,,"€ 495,000",F,9,,,None,None,,None,,,None,None,None
+446,RACOUR,Villa for sale,,"€ 520,000",C,None,,,None,None,None,None,,,None,None,None
+447,Rixensart,Villa for sale,,"€ 525,000",B,36,,,None,None,,None,,,1,None,None
+448,Latinne,Villa for sale,,"€ 545,000",None,None,,,None,None,,None,,,None,None,None
+449,Flémalle Monslez-Liège,Farmhouse for sale,,"€ 545,000",F,12,,,None,None,,None,,,None,None,None
+450,Kruibeke,House for sale,,"€ 570,000",C,7,,,None,None,,None,,,None,None,None
+451,EBEN-EMAEL,Other properties for sale,,None,C,None,,,None,None,,None,,,None,None,None
+452,Bouillon Rochehaut,House for sale,,"€ 625,000",F,None,,,None,None,,None,,,5,None,None
+453,Genval,Villa for sale,,"€ 645,000",B,None,,,None,None,,None,,,2,None,None
+454,Lasne,Villa for sale,,"€ 670,000",F,None,,,None,None,,None,,,3,None,None
+455,Herbeumont,House for sale,,"€ 675,000",F,None,,,None,None,,None,,,15,None,None
+456,Beersel,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+457,De Pinte,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+458,Dilbeek,Mixed-use building for sale,,None,F,12,,,None,None,,None,,,3,None,None
+459,Gooik,Country cottage for sale,,"€ 849,000",C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+460,Liège,House for sale,,None,F,11,,,None,None,,None,,,None,None,None
+461,Nandrin Yernée-Fraineux,Exceptional property for sale,,"€ 895,000",F,9,,,None,None,,None,,,4,None,None
+462,Lasne,Exceptional property for sale,,"€ 995,000",F,10,,,None,None,,None,,,4,None,None
+463,Hamme,Mansion for sale,,None,O,11,,,None,None,,None,,,None,None,None
+464,Ixelles,House for sale,,"€ 1,175,000",V,32,,,None,None,,None,,,None,None,None
+465,Wavre,Apartment block for sale,,"€ 1,250,000",F,19,,,None,None,,None,,,11,None,None
+466,Louvain-La-Neuve,Apartment block for sale,,"€ 1,250,000",F,19,,,None,None,,None,,,11,None,None
+467,Rhode-St-Genèse,Villa for sale,,"€ 2,750,000",F,22,,,None,None,,None,,,5,None,None
+468,Ronse,House for sale,,"€ 135,000",None,None,,,None,None,None,None,,,None,None,None
+469,Nukerke,House for sale,,"€ 460,000",O,None,,,None,None,,None,,,None,None,None
+470,Ittre,Villa for sale,,"€ 465,000",B,9,,,None,None,,None,,,2,None,None
+471,Lasne,Villa for sale,,"€ 470,000",B,None,,,None,None,,None,,,6,None,None
+472,Buggenhout,House for sale,,"€ 476,000",C,None,,,None,None,,None,,,None,None,None
+473,Linkebeek,House for sale,,"€ 478,000",C,None,,,None,None,,None,,,None,None,None
+474,Rixensart,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+475,Waterloo,Villa for sale,,"€ 495,000",F,9,,,None,None,,None,,,None,None,None
+476,RACOUR,Villa for sale,,"€ 520,000",C,None,,,None,None,None,None,,,None,None,None
+477,Rixensart,Villa for sale,,"€ 525,000",B,36,,,None,None,,None,,,1,None,None
+478,Latinne,Villa for sale,,"€ 545,000",None,None,,,None,None,,None,,,None,None,None
+479,Flémalle Monslez-Liège,Farmhouse for sale,,"€ 545,000",F,12,,,None,None,,None,,,None,None,None
+480,Kruibeke,House for sale,,"€ 570,000",C,7,,,None,None,,None,,,None,None,None
+481,EBEN-EMAEL,Other properties for sale,,None,C,None,,,None,None,,None,,,None,None,None
+482,Bouillon Rochehaut,House for sale,,"€ 625,000",F,None,,,None,None,,None,,,5,None,None
+483,Genval,Villa for sale,,"€ 645,000",B,None,,,None,None,,None,,,2,None,None
+484,Lasne,Villa for sale,,"€ 670,000",F,None,,,None,None,,None,,,3,None,None
+485,Herbeumont,House for sale,,"€ 675,000",F,None,,,None,None,,None,,,15,None,None
+486,Beersel,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+487,De Pinte,Villa for sale,,None,C,None,,,None,None,,None,,,None,None,None
+488,Dilbeek,Mixed-use building for sale,,None,F,12,,,None,None,,None,,,3,None,None
+489,Gooik,Country cottage for sale,,"€ 849,000",C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+490,Liège,House for sale,,None,F,11,,,None,None,,None,,,None,None,None
+491,Nandrin Yernée-Fraineux,Exceptional property for sale,,"€ 895,000",F,9,,,None,None,,None,,,4,None,None
+492,Lasne,Exceptional property for sale,,"€ 995,000",F,10,,,None,None,,None,,,4,None,None
+493,Hamme,Mansion for sale,,None,O,11,,,None,None,,None,,,None,None,None
+494,Ixelles,House for sale,,"€ 1,175,000",V,32,,,None,None,,None,,,None,None,None
+495,Wavre,Apartment block for sale,,"€ 1,250,000",F,19,,,None,None,,None,,,11,None,None
+496,Louvain-La-Neuve,Apartment block for sale,,"€ 1,250,000",F,19,,,None,None,,None,,,11,None,None
+497,Rhode-St-Genèse,Villa for sale,,"€ 2,750,000",F,22,,,None,None,,None,,,5,None,None
+498,Ronse,House for sale,,"€ 135,000",None,None,,,None,None,None,None,,,None,None,None
+499,Willebroek,House for sale,,"€ 199,000",C,None,,,None,None,None,None,,,None,None,None
+500,Izegem,House for sale,,"€ 239,500",O,None,,,None,None,,None,,,None,None,None
+501,None,House for sale,,"€ 320,000",None,None,,,None,None,,None,,,None,None,None
+502,Beigem,House for sale,,"€ 345,000",None,None,,,None,None,,None,,,None,None,None
+503,Kapelle-op-den-Bos,Villa for sale,,"€ 345,000",None,None,,,None,None,,None,,,None,None,None
+504,Trooz,House for sale,,"€ 460,000",None,None,,,None,None,,None,,,None,None,None
+505,ISIÈRES,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+506,None,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+507,None,Villa for sale,,None,O,None,,,None,None,,None,,,None,None,None
+508,None,Exceptional property for sale,,"€ 4,750,000",C,13,,,None,None,,None,,,None,None,None
+509,Aartselaar,Town-house for sale,,"€ 289,000",C,None,,,None,None,,None,,,None,None,None
+510,Pittem,House for sale,,"€ 289,000",C,None,,,None,None,,None,,,None,None,None
+511,Pont-à-Celles,Apartment block for sale,,"€ 300,000",F,None,,,None,None,,None,,,None,None,None
+512,Tournai,Mansion for sale,,None,F,None,,,None,None,,None,,,None,None,None
+513,Florenville,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+514,None,House for sale,,None,F,None,,,None,None,,None,,,4,None,None
+515,None,Villa for sale,,"€ 749,000",F,8,,,None,None,,None,,,1,None,None
+516,None,House for sale,,"€ 980,000",S,9,,,None,None,,None,,,None,None,None
+517,St-Niklaas,House for sale,None,None,F,6,,,None,None,,None,,,None,None,None
+518,Couvin,House for sale,,"€ 165,000",None,None,,,None,None,,None,,,None,None,None
+519,Olne,House for sale,,"€ 325,000",C,10,,,None,None,,None,,,None,None,None
+520,Arlon,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+521,Willebroek,House for sale,,"€ 249,000",None,None,,,None,None,,None,,,None,None,None
+522,None,House for sale,,None,S,None,,,None,None,,None,,,1,None,None
+523,Nandrin,House for sale,,"€ 379,000",O,None,,,None,None,,None,,,None,None,None
+524,None,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+525,None,House for sale,,"m²
+square meters",C,11,,,None,None,,None,,,None,None,None
+526,None,House for sale,,None,F,13,,,None,None,,None,,,9,None,None
+527,Bissegem,House for sale,,"€ 183,000",None,None,,,None,None,,None,,,None,None,None
+528,Gembloux,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+529,Willebroek,House for sale,,"€ 199,000",C,None,,,None,None,None,None,,,None,None,None
+530,Izegem,House for sale,,"€ 239,500",O,None,,,None,None,,None,,,None,None,None
+531,None,House for sale,,"€ 320,000",None,None,,,None,None,,None,,,None,None,None
+532,Beigem,House for sale,,"€ 345,000",None,None,,,None,None,,None,,,None,None,None
+533,Kapelle-op-den-Bos,Villa for sale,,"€ 345,000",None,None,,,None,None,,None,,,None,None,None
+534,Trooz,House for sale,,"€ 460,000",None,None,,,None,None,,None,,,None,None,None
+535,ISIÈRES,House for sale,,None,O,None,,,None,None,None,None,,,None,None,None
+536,None,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+537,None,Villa for sale,,None,O,None,,,None,None,,None,,,None,None,None
+538,None,Exceptional property for sale,,"€ 4,750,000",C,13,,,None,None,,None,,,None,None,None
+539,Aartselaar,Town-house for sale,,"€ 289,000",C,None,,,None,None,,None,,,None,None,None
+540,Pittem,House for sale,,"€ 289,000",C,None,,,None,None,,None,,,None,None,None
+541,Pont-à-Celles,Apartment block for sale,,"€ 300,000",F,None,,,None,None,,None,,,None,None,None
+542,Tournai,Mansion for sale,,None,F,None,,,None,None,,None,,,None,None,None
+543,Florenville,House for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+544,None,House for sale,,None,F,None,,,None,None,,None,,,4,None,None
+545,None,Villa for sale,,"€ 749,000",F,8,,,None,None,,None,,,1,None,None
+546,None,House for sale,,"€ 980,000",S,9,,,None,None,,None,,,None,None,None
+547,St-Niklaas,House for sale,None,None,F,6,,,None,None,,None,,,None,None,None
+548,Couvin,House for sale,,"€ 165,000",None,None,,,None,None,,None,,,None,None,None
+549,Olne,House for sale,,"€ 325,000",C,10,,,None,None,,None,,,None,None,None
+550,Arlon,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+551,Willebroek,House for sale,,"€ 249,000",None,None,,,None,None,,None,,,None,None,None
+552,None,House for sale,,None,S,None,,,None,None,,None,,,1,None,None
+553,Nandrin,House for sale,,"€ 379,000",O,None,,,None,None,,None,,,None,None,None
+554,None,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+555,None,House for sale,,"m²
+square meters",C,11,,,None,None,,None,,,None,None,None
+556,None,House for sale,,None,F,13,,,None,None,,None,,,9,None,None
+557,Bissegem,House for sale,,"€ 183,000",None,None,,,None,None,,None,,,None,None,None
+558,Gembloux,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+559,Trooz,Apartment block for sale,,None,None,9,,,None,None,,None,,,None,None,None
+560,STEENHUIZE-WIJNHUIZE,Mixed-use building for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+561,STEENHUIZE-WIJNHUIZE,House for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+562,Woluwe-St-Lambert,House for sale,,None,F,7,,,None,None,,None,,,None,None,None
+563,None,House for sale,,"€ 1,095,000",None,11,,,None,None,,None,,,None,None,None
+564,None,Villa for sale,,"m²
+square meters",F,None,,,None,None,,None,,,None,None,None
+565,Ronse,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+566,DROESHOUT,House for sale,,"€ 324,000",C,None,,,None,None,,None,,,None,None,None
+567,Brugge,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+568,Sint-Kruis,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+569,Thiméon,House for sale,None,None,B,None,,,None,None,,None,,,3,None,None
+570,Pry,House for sale,None,"€ 289,000",F,None,,,None,None,,None,,,None,None,None
+571,Koersel,House for sale,None,"€ 359,000",F,None,,,None,None,,None,,,None,None,None
+572,GRIVEGNÉE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+573,Tongre-notre-Dame,Villa for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+574,Anthisnes Tavier,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+575,Ath,Other properties for sale,,None,None,13,,,None,None,None,None,,,None,None,None
+576,Bastogne,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+577,BOIS-DE-VILLERS,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+578,Musson,House for sale,,"€ 199,000",F,73,,,None,None,None,None,,,None,None,None
+579,Temse,House for sale,,"€ 220,000",None,None,,,None,None,None,None,,,None,None,None
+580,Maldegem,House for sale,,"€ 225,000",None,None,,,None,None,,None,,,None,None,None
+581,Hoboken,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+582,Jette,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+583,Hoboken,House for sale,,"€ 265,000",None,None,,,None,None,,None,,,None,None,None
+584,Borgloon,House for sale,,"€ 279,000",F,None,,,None,None,,None,,,None,None,None
+585,MILMORT,House for sale,,None,F,6,,,None,None,,None,,,None,None,None
+586,Beyne-Heusay,House for sale,,None,S,None,,,None,None,,None,,,2,None,None
+587,Beyne-Heusay,Bungalow for sale,,None,S,None,,,None,None,,None,,,2,None,None
+588,Rillaar,House for sale,,"€ 495,000",C,None,,,None,None,,None,,,None,None,None
+589,Trooz,Apartment block for sale,,None,None,9,,,None,None,,None,,,None,None,None
+590,STEENHUIZE-WIJNHUIZE,Mixed-use building for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+591,STEENHUIZE-WIJNHUIZE,House for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+592,Woluwe-St-Lambert,House for sale,,None,F,7,,,None,None,,None,,,None,None,None
+593,None,House for sale,,"€ 1,095,000",None,11,,,None,None,,None,,,None,None,None
+594,None,Villa for sale,,"m²
+square meters",F,None,,,None,None,,None,,,None,None,None
+595,Ronse,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+596,DROESHOUT,House for sale,,"€ 324,000",C,None,,,None,None,,None,,,None,None,None
+597,Brugge,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+598,Sint-Kruis,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+599,Thiméon,House for sale,None,None,B,None,,,None,None,,None,,,3,None,None
+600,Pry,House for sale,None,"€ 289,000",F,None,,,None,None,,None,,,None,None,None
+601,Koersel,House for sale,None,"€ 359,000",F,None,,,None,None,,None,,,None,None,None
+602,GRIVEGNÉE,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+603,Tongre-notre-Dame,Villa for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+604,Anthisnes Tavier,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+605,Ath,Other properties for sale,,None,None,13,,,None,None,None,None,,,None,None,None
+606,Bastogne,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+607,BOIS-DE-VILLERS,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+608,Musson,House for sale,,"€ 199,000",F,73,,,None,None,None,None,,,None,None,None
+609,Temse,House for sale,,"€ 220,000",None,None,,,None,None,None,None,,,None,None,None
+610,Maldegem,House for sale,,"€ 225,000",None,None,,,None,None,,None,,,None,None,None
+611,Hoboken,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+612,Jette,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+613,Hoboken,House for sale,,"€ 265,000",None,None,,,None,None,,None,,,None,None,None
+614,Borgloon,House for sale,,"€ 279,000",F,None,,,None,None,,None,,,None,None,None
+615,MILMORT,House for sale,,None,F,6,,,None,None,,None,,,None,None,None
+616,Beyne-Heusay,House for sale,,None,S,None,,,None,None,,None,,,2,None,None
+617,Beyne-Heusay,Bungalow for sale,,None,S,None,,,None,None,,None,,,2,None,None
+618,Rillaar,House for sale,,"€ 495,000",C,None,,,None,None,,None,,,None,None,None
+619,Eeklo,House for sale,,"€ 495,000",C,None,,,None,None,,None,,,None,None,None
+620,Waregem,Villa for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+621,Waregem,Villa for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+622,Schaerbeek,Apartment block for sale,,None,F,10,,,None,None,None,None,,,1,None,None
+623,Het Zoute,Villa for sale,,"€ 2,995,000",C,15,,,None,None,,None,,,None,None,None
+624,KNOKKE-ZOUTE,Villa for sale,,"€ 5,200,000",B,18,,,None,None,,None,,,1,None,None
+625,Ans,House for sale,None,None,F,None,,,None,None,,None,,,None,None,None
+626,Pont-a-Celles,House for sale,None,"€ 190,000",S,None,,,None,None,,None,,,None,None,None
+627,Gingelom Jeuk,House for sale,None,"m²
+square meters",S,None,,,None,None,,None,,,None,None,None
+628,Ingelmunster,House for sale,None,None,F,None,,,None,None,,None,,,2,None,None
+629,Dentergem,House for sale,None,None,B,5,,,None,None,,None,,,3,None,None
+630,None,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+631,Roux,Town-house for sale,None,None,S,None,,,None,None,,None,,,2,None,None
+632,BURST,House for sale,,"€ 279,000",None,None,,,None,None,,None,,,None,None,None
+633,Oostakker,House for sale,None,"€ 295,000",F,None,,,None,None,,None,,,None,None,None
+634,Hélécine,House for sale,None,None,F,6,,,None,None,,None,,,2,None,None
+635,Machelen,House for sale,None,None,F,None,,,None,None,,None,,,4,None,None
+636,Poelkapelle,House for sale,None,"€ 319,000",F,None,,,None,None,,None,,,None,None,None
+637,Mol,House for sale,None,"€ 325,000",F,None,,,None,None,,None,,,None,None,None
+638,Athus,House for sale,None,"€ 335,000",S,6,,,None,None,,None,,,None,None,None
+639,Hoboken,House for sale,None,"€ 349,000",C,None,,,None,None,,None,,,None,None,None
+640,Xhendremael,Bungalow for sale,None,"€ 375,000",F,7,,,None,None,,None,,,3,None,None
+641,Jambes,Apartment block for sale,None,"€ 395,000",F,None,,,None,None,,None,,,None,None,None
+642,Bree,Villa for sale,None,"€ 399,000",B,7,,,None,None,,None,,,4,None,None
+643,Opwijk,House for sale,None,"€ 430,000",F,6,,,None,None,,None,,,2,None,None
+644,Grobbendonk,House for sale,None,"€ 442,000",F,5,,,None,None,,None,,,2,None,None
+645,Lint,House for sale,None,None,F,7,,,None,None,,None,,,1,None,None
+646,Willebroek,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+647,Melle,House for sale,None,None,F,7,,,None,None,,None,,,None,None,None
+648,Wemmel,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+649,Eeklo,House for sale,,"€ 495,000",C,None,,,None,None,,None,,,None,None,None
+650,Waregem,Villa for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+651,Waregem,Villa for sale,,None,C,None,,,None,None,None,None,,,None,None,None
+652,Schaerbeek,Apartment block for sale,,None,F,10,,,None,None,None,None,,,1,None,None
+653,Het Zoute,Villa for sale,,"€ 2,995,000",C,15,,,None,None,,None,,,None,None,None
+654,KNOKKE-ZOUTE,Villa for sale,,"€ 5,200,000",B,18,,,None,None,,None,,,1,None,None
+655,Ans,House for sale,None,None,F,None,,,None,None,,None,,,None,None,None
+656,Pont-a-Celles,House for sale,None,"€ 190,000",S,None,,,None,None,,None,,,None,None,None
+657,Gingelom Jeuk,House for sale,None,"m²
+square meters",S,None,,,None,None,,None,,,None,None,None
+658,Ingelmunster,House for sale,None,None,F,None,,,None,None,,None,,,2,None,None
+659,Dentergem,House for sale,None,None,B,5,,,None,None,,None,,,3,None,None
+660,None,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+661,Roux,Town-house for sale,None,None,S,None,,,None,None,,None,,,2,None,None
+662,BURST,House for sale,,"€ 279,000",None,None,,,None,None,,None,,,None,None,None
+663,Oostakker,House for sale,None,"€ 295,000",F,None,,,None,None,,None,,,None,None,None
+664,Hélécine,House for sale,None,None,F,6,,,None,None,,None,,,2,None,None
+665,Machelen,House for sale,None,None,F,None,,,None,None,,None,,,4,None,None
+666,Poelkapelle,House for sale,None,"€ 319,000",F,None,,,None,None,,None,,,None,None,None
+667,Mol,House for sale,None,"€ 325,000",F,None,,,None,None,,None,,,None,None,None
+668,Athus,House for sale,None,"€ 335,000",S,6,,,None,None,,None,,,None,None,None
+669,Hoboken,House for sale,None,"€ 349,000",C,None,,,None,None,,None,,,None,None,None
+670,Xhendremael,Bungalow for sale,None,"€ 375,000",F,7,,,None,None,,None,,,3,None,None
+671,Jambes,Apartment block for sale,None,"€ 395,000",F,None,,,None,None,,None,,,None,None,None
+672,Bree,Villa for sale,None,"€ 399,000",B,7,,,None,None,,None,,,4,None,None
+673,Opwijk,House for sale,None,"€ 430,000",F,6,,,None,None,,None,,,2,None,None
+674,Grobbendonk,House for sale,None,"€ 442,000",F,5,,,None,None,,None,,,2,None,None
+675,Lint,House for sale,None,None,F,7,,,None,None,,None,,,1,None,None
+676,Willebroek,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+677,Melle,House for sale,None,None,F,7,,,None,None,,None,,,None,None,None
+678,Wemmel,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+679,Liège,Mixed-use building for sale,None,"m²
+square meters",F,77,,,None,None,,None,,,None,None,None
+680,Lokeren,House for sale,None,None,F,8,,,None,None,,None,,,1,None,None
+681,None,Villa for sale,,None,C,17,,,None,None,,None,,,None,None,None
+682,None,Villa for sale,,"€ 785,000",S,7,,,None,None,,None,,,1,None,None
+683,Halle,Villa for sale,None,"€ 790,000",B,25,,,None,None,,None,,,4,None,None
+684,None,Exceptional property for sale,,None,F,None,,,None,None,,None,,,12,None,None
+685,None,Villa for sale,,None,F,9,,,None,None,,None,,,2,None,None
+686,None,Mixed-use building for sale,,"€ 1,600,000",V,None,,,None,None,,None,,,None,None,None
+687,None,Villa for sale,,"€ 1,650,000",F,13,,,None,None,,None,,,6,None,None
+688,None,House for sale,,None,C,34,,,None,None,,None,,,None,None,None
+689,Waterloo,Exceptional property for sale,None,None,F,13,,,None,None,,None,,,4,None,None
+690,Woluwe-Saint-Lambert,Apartment block for sale,,"€ 550,000",F,None,,,None,None,,None,,,None,None,None
+691,Saint-Hubert,House for sale,,"€ 129,900",F,18,,,None,None,,None,,,None,None,None
+692,None,Villa for sale,,None,F,None,,,None,None,,None,,,5,None,None
+693,HUISSIGNIES,House for sale,,"€ 180,000",None,None,,,None,None,,None,,,None,None,None
+694,Ath,Mansion for sale,,None,None,13,,,None,None,None,None,,,None,None,None
+695,Beaumont,House for sale,,"€ 495,000",None,8,,,None,None,None,None,,,None,None,None
+696,Watermael-Boitsfort,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+697,Marchin,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+698,Aalst,House for sale,None,"€ 185,000",S,7,,,None,None,,None,,,None,None,None
+699,Froidchapelle,House for sale,None,None,B,None,,,None,None,,None,,,3,None,None
+700,None,Villa for sale,,None,F,None,,,None,None,,None,,,6,None,None
+701,Hamoir,House for sale,None,"€ 229,000",S,6,,,None,None,,None,,,1,None,None
+702,St-Eloois-Vijve,House for sale,None,"€ 239,000",F,None,,,None,None,,None,,,1,None,None
+703,Mont-sur-Marchienne,House for sale,,None,None,8,,,None,None,None,None,,,None,None,None
+704,Alleur,House for sale,None,None,S,37,,,None,None,,None,,,2,None,None
+705,Ronse,House for sale,None,"m²
+square meters",S,9,,,None,None,,None,,,1,None,None
+706,None,House for sale,,"€ 289,000",F,None,,,None,None,None,None,,,None,None,None
+707,St-Katelijne-Waver,House for sale,None,"€ 295,000",S,5,,,None,None,,None,,,2,None,None
+708,None,Villa for sale,,None,F,None,,,None,None,,None,,,2,None,None
+709,Liège,Mixed-use building for sale,None,"m²
+square meters",F,77,,,None,None,,None,,,None,None,None
+710,Lokeren,House for sale,None,None,F,8,,,None,None,,None,,,1,None,None
+711,None,Villa for sale,,None,C,17,,,None,None,,None,,,None,None,None
+712,None,Villa for sale,,"€ 785,000",S,7,,,None,None,,None,,,1,None,None
+713,Halle,Villa for sale,None,"€ 790,000",B,25,,,None,None,,None,,,4,None,None
+714,None,Exceptional property for sale,,None,F,None,,,None,None,,None,,,12,None,None
+715,None,Villa for sale,,None,F,9,,,None,None,,None,,,2,None,None
+716,None,Mixed-use building for sale,,"€ 1,600,000",V,None,,,None,None,,None,,,None,None,None
+717,None,Villa for sale,,"€ 1,650,000",F,13,,,None,None,,None,,,6,None,None
+718,None,House for sale,,None,C,34,,,None,None,,None,,,None,None,None
+719,Waterloo,Exceptional property for sale,None,None,F,13,,,None,None,,None,,,4,None,None
+720,Woluwe-Saint-Lambert,Apartment block for sale,,"€ 550,000",F,None,,,None,None,,None,,,None,None,None
+721,Saint-Hubert,House for sale,,"€ 129,900",F,18,,,None,None,,None,,,None,None,None
+722,None,Villa for sale,,None,F,None,,,None,None,,None,,,5,None,None
+723,HUISSIGNIES,House for sale,,"€ 180,000",None,None,,,None,None,,None,,,None,None,None
+724,Ath,Mansion for sale,,None,None,13,,,None,None,None,None,,,None,None,None
+725,Beaumont,House for sale,,"€ 495,000",None,8,,,None,None,None,None,,,None,None,None
+726,Watermael-Boitsfort,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+727,Marchin,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+728,Aalst,House for sale,None,"€ 185,000",S,7,,,None,None,,None,,,None,None,None
+729,Froidchapelle,House for sale,None,None,B,None,,,None,None,,None,,,3,None,None
+730,None,Villa for sale,,None,F,None,,,None,None,,None,,,6,None,None
+731,Hamoir,House for sale,None,"€ 229,000",S,6,,,None,None,,None,,,1,None,None
+732,St-Eloois-Vijve,House for sale,None,"€ 239,000",F,None,,,None,None,,None,,,1,None,None
+733,Mont-sur-Marchienne,House for sale,,None,None,8,,,None,None,None,None,,,None,None,None
+734,Alleur,House for sale,None,None,S,37,,,None,None,,None,,,2,None,None
+735,Ronse,House for sale,None,"m²
+square meters",S,9,,,None,None,,None,,,1,None,None
+736,None,House for sale,,"€ 289,000",F,None,,,None,None,None,None,,,None,None,None
+737,St-Katelijne-Waver,House for sale,None,"€ 295,000",S,5,,,None,None,,None,,,2,None,None
+738,None,Villa for sale,,None,F,None,,,None,None,,None,,,2,None,None
+739,None,House for sale,,"€ 399,000",None,6,,,None,None,,None,,,None,None,None
+740,Laeken,Town-house for sale,None,None,S,None,,,None,None,,None,,,1,None,None
+741,Nieuwerkerken,Villa for sale,None,"€ 535,000",F,None,,,None,None,,None,,,None,None,None
+742,Berlaar,Villa for sale,None,None,F,6,,,None,None,,None,,,None,None,None
+743,None,Villa for sale,,"€ 845,000",F,None,,,None,None,,None,,,None,None,None
+744,None,House for sale,,"€ 850,000",F,8,,,None,None,,None,,,2,None,None
+745,None,House for sale,,"€ 890,000",F,11,,,None,None,,None,,,1,None,None
+746,None,Villa for sale,,"€ 1,250,000",C,25,,,None,None,,None,,,None,None,None
+747,None,Apartment block for sale,,None,S,30,,,None,None,,None,,,2,None,None
+748,KORBEEK-LO,House for sale,,"€ 369,000",None,None,,,None,None,,None,,,None,None,None
+749,None,Villa for sale,,None,S,None,,,None,None,,None,,,1,None,None
+750,Aalter,House for sale,,"€ 699,000",None,None,,,None,None,,None,,,None,None,None
+751,Pont-à-Celles Thiméon,House for sale,None,"€ 279,900",B,None,,,None,None,,None,,,1,None,None
+752,Burdinne,House for sale,,"€ 225,000",O,9,,,None,None,,None,,,None,None,None
+753,Gent,House for sale,,"€ 299,000",None,None,,,None,None,None,None,,,None,None,None
+754,SINT-AMANDS,Villa for sale,,"€ 675,000",None,None,,,None,None,,None,,,None,None,None
+755,None,Villa for sale,,None,F,11,,,None,None,None,None,,,5,None,None
+756,None,House for sale,,"m²
+square meters",F,11,,,None,None,,None,,,2,None,None
+757,Visé Richelle,Bungalow for sale,,"€ 230,000",C,None,,,None,None,,None,,,None,None,None
+758,None,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+759,None,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+760,Woluwe-Saint-Pierre,House for sale,,"€ 495,000",F,7,,,None,None,,None,,,None,None,None
+761,Boom,House for sale,None,"€ 177,000",S,13,,,None,None,,None,,,1,None,None
+762,Ronse,House for sale,None,"m²
+square meters",S,None,,,None,None,,None,,,3,None,None
+763,Gouy-lez-Piéton,Villa for sale,None,None,F,None,,,None,None,,None,,,4,None,None
+764,Beaufays,Villa for sale,None,None,S,None,,,None,None,,None,,,1,None,None
+765,None,Exceptional property for sale,,"€ 595,000",F,10,,,None,None,,None,,,Link to the virtual visit,None,None
+766,Zedelgem,Villa for sale,None,None,O,28,,,None,None,,None,,,None,None,None
+767,Zedelgem,House for sale,None,None,O,28,,,None,None,,None,,,None,None,None
+768,Werchter,Villa for sale,,"€ 699,000",None,None,,,None,None,,None,,,None,None,None
+769,None,House for sale,,"€ 399,000",None,6,,,None,None,,None,,,None,None,None
+770,Laeken,Town-house for sale,None,None,S,None,,,None,None,,None,,,1,None,None
+771,Nieuwerkerken,Villa for sale,None,"€ 535,000",F,None,,,None,None,,None,,,None,None,None
+772,Berlaar,Villa for sale,None,None,F,6,,,None,None,,None,,,None,None,None
+773,None,Villa for sale,,"€ 845,000",F,None,,,None,None,,None,,,None,None,None
+774,None,House for sale,,"€ 850,000",F,8,,,None,None,,None,,,2,None,None
+775,None,House for sale,,"€ 890,000",F,11,,,None,None,,None,,,1,None,None
+776,None,Villa for sale,,"€ 1,250,000",C,25,,,None,None,,None,,,None,None,None
+777,None,Apartment block for sale,,None,S,30,,,None,None,,None,,,2,None,None
+778,KORBEEK-LO,House for sale,,"€ 369,000",None,None,,,None,None,,None,,,None,None,None
+779,None,Villa for sale,,None,S,None,,,None,None,,None,,,1,None,None
+780,Aalter,House for sale,,"€ 699,000",None,None,,,None,None,,None,,,None,None,None
+781,Pont-à-Celles Thiméon,House for sale,None,"€ 279,900",B,None,,,None,None,,None,,,1,None,None
+782,Burdinne,House for sale,,"€ 225,000",O,9,,,None,None,,None,,,None,None,None
+783,Gent,House for sale,,"€ 299,000",None,None,,,None,None,None,None,,,None,None,None
+784,SINT-AMANDS,Villa for sale,,"€ 675,000",None,None,,,None,None,,None,,,None,None,None
+785,None,Villa for sale,,None,F,11,,,None,None,None,None,,,5,None,None
+786,None,House for sale,,"m²
+square meters",F,11,,,None,None,,None,,,2,None,None
+787,Visé Richelle,Bungalow for sale,,"€ 230,000",C,None,,,None,None,,None,,,None,None,None
+788,None,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+789,None,House for sale,,None,C,None,,,None,None,,None,,,Link to the virtual visit,None,None
+790,Woluwe-Saint-Pierre,House for sale,,"€ 495,000",F,7,,,None,None,,None,,,None,None,None
+791,Boom,House for sale,None,"€ 177,000",S,13,,,None,None,,None,,,1,None,None
+792,Ronse,House for sale,None,"m²
+square meters",S,None,,,None,None,,None,,,3,None,None
+793,Gouy-lez-Piéton,Villa for sale,None,None,F,None,,,None,None,,None,,,4,None,None
+794,Beaufays,Villa for sale,None,None,S,None,,,None,None,,None,,,1,None,None
+795,None,Exceptional property for sale,,"€ 595,000",F,10,,,None,None,,None,,,Link to the virtual visit,None,None
+796,Zedelgem,Villa for sale,None,None,O,28,,,None,None,,None,,,None,None,None
+797,Zedelgem,House for sale,None,None,O,28,,,None,None,,None,,,None,None,None
+798,Werchter,Villa for sale,,"€ 699,000",None,None,,,None,None,,None,,,None,None,None
+799,Gent,Apartment block for sale,,"€ 750,000",None,None,,,None,None,,None,,,None,None,None
+800,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+801,Liege,Mixed-use building for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+802,Engis Hermallesous-Huy,House for sale,,"€ 158,000",C,None,,,None,None,,None,,,None,None,None
+803,Souvret,House for sale,,"€ 169,000",F,None,,,None,None,,None,,,1,None,None
+804,Chaudfontaine,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+805,Les Bons Villers Frasnes-lez-Gosselies,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+806,Gouvy,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+807,Walcourt Somzée,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+808,Liege,House for sale,,None,F,9,,,None,None,,None,,,None,None,None
+809,Izegem,House for sale,,"€ 233,000",C,None,,,None,None,,None,,,None,None,None
+810,Deinze,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+811,Aalst,House for sale,,"€ 249,000",None,None,,,None,None,,None,,,None,None,None
+812,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+813,Bazel,House for sale,,"€ 259,000",None,None,,,None,None,,None,,,None,None,None
+814,Eghezee,House for sale,,"€ 279,000",B,None,,,None,None,,None,,,2,None,None
+815,Oudenaarde,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+816,Halle,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+817,OOSTWINKEL,House for sale,,"€ 295,000",C,None,,,None,None,,None,,,None,None,None
+818,Antwerp,House for sale,,"€ 299,500",None,None,,,None,None,,None,,,None,None,None
+819,Londerzeel,House for sale,,"€ 320,000",O,None,,,None,None,,None,,,None,None,None
+820,SINT-GILLIS-WAAS,House for sale,,"€ 339,000",C,None,,,None,None,,None,,,None,None,None
+821,Esneux,Villa for sale,,"m²
+square meters",O,None,,,None,None,,None,,,None,None,None
+822,Waterloo,House for sale,,"€ 375,000",F,None,,,None,None,,None,,,None,None,None
+823,NADRIN,House for sale,,"€ 375,000",None,None,,,None,None,,None,,,None,None,None
+824,OUDEGEM,House for sale,,"€ 379,000",None,7,,,None,None,None,None,,,None,None,None
+825,Waterloo,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+826,Ronse,Villa for sale,,"€ 395,000",C,None,,,None,None,,None,,,None,None,None
+827,Bredene,Apartment block for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+828,Arlon,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+829,Gent,Apartment block for sale,,"€ 750,000",None,None,,,None,None,,None,,,None,None,None
+830,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+831,Liege,Mixed-use building for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+832,Engis Hermallesous-Huy,House for sale,,"€ 158,000",C,None,,,None,None,,None,,,None,None,None
+833,Souvret,House for sale,,"€ 169,000",F,None,,,None,None,,None,,,1,None,None
+834,Chaudfontaine,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+835,Les Bons Villers Frasnes-lez-Gosselies,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+836,Gouvy,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+837,Walcourt Somzée,House for sale,,None,F,None,,,None,None,,None,,,2,None,None
+838,Liege,House for sale,,None,F,9,,,None,None,,None,,,None,None,None
+839,Izegem,House for sale,,"€ 233,000",C,None,,,None,None,,None,,,None,None,None
+840,Deinze,House for sale,,"€ 245,000",None,None,,,None,None,None,None,,,None,None,None
+841,Aalst,House for sale,,"€ 249,000",None,None,,,None,None,,None,,,None,None,None
+842,None,None,None,None,None,None,,None,None,None,None,None,,,None,None,None
+843,Bazel,House for sale,,"€ 259,000",None,None,,,None,None,,None,,,None,None,None
+844,Eghezee,House for sale,,"€ 279,000",B,None,,,None,None,,None,,,2,None,None
+845,Oudenaarde,Mansion for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+846,Halle,House for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+847,OOSTWINKEL,House for sale,,"€ 295,000",C,None,,,None,None,,None,,,None,None,None
+848,Antwerp,House for sale,,"€ 299,500",None,None,,,None,None,,None,,,None,None,None
+849,Londerzeel,House for sale,,"€ 320,000",O,None,,,None,None,,None,,,None,None,None
+850,SINT-GILLIS-WAAS,House for sale,,"€ 339,000",C,None,,,None,None,,None,,,None,None,None
+851,Esneux,Villa for sale,,"m²
+square meters",O,None,,,None,None,,None,,,None,None,None
+852,Waterloo,House for sale,,"€ 375,000",F,None,,,None,None,,None,,,None,None,None
+853,NADRIN,House for sale,,"€ 375,000",None,None,,,None,None,,None,,,None,None,None
+854,OUDEGEM,House for sale,,"€ 379,000",None,7,,,None,None,None,None,,,None,None,None
+855,Waterloo,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+856,Ronse,Villa for sale,,"€ 395,000",C,None,,,None,None,,None,,,None,None,None
+857,Bredene,Apartment block for sale,,"€ 399,000",None,None,,,None,None,None,None,,,None,None,None
+858,Arlon,House for sale,,None,C,None,,,None,None,,None,,,None,None,None
+859,Libin Anloy,House for sale,,None,S,11,,,None,None,,None,,,1,None,None
+860,Lasne,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+861,Willebroek,House for sale,,"€ 475,000",C,7,,,None,None,,None,,,None,None,None
+862,Beersel,House for sale,,"€ 499,000",F,None,,,None,None,None,None,,,5,None,None
+863,LIEZELE,House for sale,,"€ 539,000",C,None,,,None,None,,None,,,None,None,None
+864,ROSIERES,House for sale,,"m²
+square meters",F,8,,,None,None,,None,,,None,None,None
+865,Kraainem,House for sale,,None,F,54,,,None,None,,None,,,2,None,None
+866,Haasrode,House for sale,,None,O,9,,,None,None,,None,,,None,None,None
+867,OPPAGNE,House for sale,,None,None,8,,,None,None,,None,,,None,None,None
+868,BRUXELLES,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+869,Etterbeek,Exceptional property for sale,,None,F,10,,,None,None,,None,,,None,None,None
+870,Wavre,Villa for sale,,"€ 699,000",B,14,,,None,None,,None,,,4,None,None
+871,Grez-Doiceau,House for sale,,"€ 699,000",F,10,,,None,None,,None,,,4,None,None
+872,Antwerp,Apartment block for sale,,"€ 725,000",F,9,,,None,None,None,None,,,None,None,None
+873,Kortrijk,Other properties for sale,,"€ 750,000",None,None,,,None,None,None,None,,,None,None,None
+874,Kortrijk,Other properties for sale,,"€ 750,000",O,None,,,None,None,None,None,,,None,None,None
+875,Kortrijk,House for sale,,"€ 750,000",None,None,,,None,None,None,None,,,None,None,None
+876,Kortrijk,House for sale,,"€ 750,000",O,None,,,None,None,None,None,,,None,None,None
+877,Tervuren,Mansion for sale,,"€ 895,000",None,17,,,None,None,,None,,,None,None,None
+878,PETIT-ENGHIEN,Villa for sale,,None,F,52,,,None,None,,None,,,4,None,None
+879,Knokke-Heist,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+880,Linkebeek,House for sale,,"€ 1,350,000",F,10,,,None,None,None,None,,,None,None,None
+881,Ixelles,Mansion for sale,,None,S,10,,,None,None,,None,,,1,None,None
+882,Knokke-Heist,House for sale,,None,B,11,,,None,None,,None,,,1,None,None
+883,Uccle,Villa for sale,,"€ 2,650,000",C,8,,,None,None,,None,,,None,None,None
+884,Uccle,Villa for sale,,None,F,None,,,None,None,,None,,,1,None,None
+885,Uccle,House for sale,,None,B,None,,,None,None,,None,,,4,None,None
+886,Middelkerke,House for sale,,"€ 244,000",None,None,,,None,None,,None,,,None,None,None
+887,Wevelgem,House for sale,,"€ 249,000",None,None,,,None,None,,None,,,None,None,None
+888,Meulebeke,House for sale,,"€ 269,000",None,None,,,None,None,,None,,,None,None,None
+889,Libin Anloy,House for sale,,None,S,11,,,None,None,,None,,,1,None,None
+890,Lasne,House for sale,,None,B,None,,,None,None,,None,,,1,None,None
+891,Willebroek,House for sale,,"€ 475,000",C,7,,,None,None,,None,,,None,None,None
+892,Beersel,House for sale,,"€ 499,000",F,None,,,None,None,None,None,,,5,None,None
+893,LIEZELE,House for sale,,"€ 539,000",C,None,,,None,None,,None,,,None,None,None
+894,ROSIERES,House for sale,,"m²
+square meters",F,8,,,None,None,,None,,,None,None,None
+895,Kraainem,House for sale,,None,F,54,,,None,None,,None,,,2,None,None
+896,Haasrode,House for sale,,None,O,9,,,None,None,,None,,,None,None,None
+897,OPPAGNE,House for sale,,None,None,8,,,None,None,,None,,,None,None,None
+898,BRUXELLES,House for sale,,None,F,None,,,None,None,None,None,,,None,None,None
+899,Etterbeek,Exceptional property for sale,,None,F,10,,,None,None,,None,,,None,None,None
+900,Wavre,Villa for sale,,"€ 699,000",B,14,,,None,None,,None,,,4,None,None
+901,Grez-Doiceau,House for sale,,"€ 699,000",F,10,,,None,None,,None,,,4,None,None
+902,Antwerp,Apartment block for sale,,"€ 725,000",F,9,,,None,None,None,None,,,None,None,None
+903,Kortrijk,Other properties for sale,,"€ 750,000",None,None,,,None,None,None,None,,,None,None,None
+904,Kortrijk,Other properties for sale,,"€ 750,000",O,None,,,None,None,None,None,,,None,None,None
+905,Kortrijk,House for sale,,"€ 750,000",None,None,,,None,None,None,None,,,None,None,None
+906,Kortrijk,House for sale,,"€ 750,000",O,None,,,None,None,None,None,,,None,None,None
+907,Tervuren,Mansion for sale,,"€ 895,000",None,17,,,None,None,,None,,,None,None,None
+908,PETIT-ENGHIEN,Villa for sale,,None,F,52,,,None,None,,None,,,4,None,None
+909,Knokke-Heist,Villa for sale,,None,B,None,,,None,None,,None,,,1,None,None
+910,Linkebeek,House for sale,,"€ 1,350,000",F,10,,,None,None,None,None,,,None,None,None
+911,Ixelles,Mansion for sale,,None,S,10,,,None,None,,None,,,1,None,None
+912,Knokke-Heist,House for sale,,None,B,11,,,None,None,,None,,,1,None,None
+913,Uccle,Villa for sale,,"€ 2,650,000",C,8,,,None,None,,None,,,None,None,None
+914,Uccle,Villa for sale,,None,F,None,,,None,None,,None,,,1,None,None
+915,Uccle,House for sale,,None,B,None,,,None,None,,None,,,4,None,None
+916,Middelkerke,House for sale,,"€ 244,000",None,None,,,None,None,,None,,,None,None,None
+917,Wevelgem,House for sale,,"€ 249,000",None,None,,,None,None,,None,,,None,None,None
+918,Meulebeke,House for sale,,"€ 269,000",None,None,,,None,None,,None,,,None,None,None
+919,Mouscron,House for sale,,"€ 275,000",None,None,,,None,None,,None,,,None,None,None
+920,De Haan,House for sale,,"€ 310,000",None,None,,,None,None,,None,,,None,None,None
+921,Zottegem,House for sale,,"€ 315,000",None,None,,,None,None,,None,,,None,None,None
+922,Oostduinkerke,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+923,Torhout,House for sale,,"€ 425,000",None,None,,,None,None,,None,,,None,None,None
+924,Scherpenheuvel,House for sale,,"€ 445,000",None,None,,,None,None,None,None,,,None,None,None
+925,Grobbendonk,House for sale,,"€ 529,000",None,None,,,None,None,,None,,,None,None,None
+926,Brugge,House for sale,,"€ 625,000",None,None,,,None,None,,None,,,None,None,None
+927,Gent,House for sale,,"€ 665,000",None,None,,,None,None,,None,,,None,None,None
+928,Gent,House for sale,,"€ 665,000",None,None,,,None,None,,None,,,None,None,None
+929,Torhout,Villa for sale,,"€ 699,000",None,None,,,None,None,,None,,,None,None,None
+930,Merchtem,House for sale,,"€ 795,000",None,None,,,None,None,,None,,,None,None,None
+931,Oostduinkerke,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+932,None,Villa for sale,,"€ 1,150,000",C,9,,,None,None,,None,,,None,None,None
+933,Schilde,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+934,None,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+935,None,Exceptional property for sale,,None,S,16,,,None,None,,None,,,2,None,None
+936,Denderleeuw,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+937,Nismes,House for sale,,"€ 160,000",None,None,,,None,None,None,None,,,None,None,None
+938,None,House for sale,,"€ 245,000",F,7,,,None,None,,None,,,4,None,None
+939,NEERIJSE,House for sale,,"€ 445,000",None,None,,,None,None,,None,,,None,None,None
+940,Brugge,Mansion for sale,,"€ 519,000",None,None,,,None,None,None,None,,,None,None,None
+941,None,Apartment block for sale,,None,None,None,,,None,None,,None,,,None,None,None
+942,Aywaille,Apartment block for sale,None,None,F,None,,,None,None,,None,,,10,None,None
+943,Gent,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+944,Boom,House for sale,,"€ 315,000",None,None,,,None,None,,None,,,None,None,None
+945,PETIT-ENGHIEN,Villa for sale,,"€ 645,000",F,None,,,None,None,,None,,,5,None,None
+946,Ronse,House for sale,None,"€ 219,000",S,7,,,None,None,,None,,,1,None,None
+947,Roeselare,House for sale,None,"€ 225,000",F,None,,,None,None,,None,,,None,None,None
+948,"Lanaken , Smeermaas",House for sale,None,"€ 269,000",S,None,,,None,None,,None,,,4,None,None
+949,Mouscron,House for sale,,"€ 275,000",None,None,,,None,None,,None,,,None,None,None
+950,De Haan,House for sale,,"€ 310,000",None,None,,,None,None,,None,,,None,None,None
+951,Zottegem,House for sale,,"€ 315,000",None,None,,,None,None,,None,,,None,None,None
+952,Oostduinkerke,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+953,Torhout,House for sale,,"€ 425,000",None,None,,,None,None,,None,,,None,None,None
+954,Scherpenheuvel,House for sale,,"€ 445,000",None,None,,,None,None,None,None,,,None,None,None
+955,Grobbendonk,House for sale,,"€ 529,000",None,None,,,None,None,,None,,,None,None,None
+956,Brugge,House for sale,,"€ 625,000",None,None,,,None,None,,None,,,None,None,None
+957,Gent,House for sale,,"€ 665,000",None,None,,,None,None,,None,,,None,None,None
+958,Gent,House for sale,,"€ 665,000",None,None,,,None,None,,None,,,None,None,None
+959,Torhout,Villa for sale,,"€ 699,000",None,None,,,None,None,,None,,,None,None,None
+960,Merchtem,House for sale,,"€ 795,000",None,None,,,None,None,,None,,,None,None,None
+961,Oostduinkerke,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+962,None,Villa for sale,,"€ 1,150,000",C,9,,,None,None,,None,,,None,None,None
+963,Schilde,Villa for sale,,None,None,None,,,None,None,,None,,,None,None,None
+964,None,House for sale,,None,F,None,,,None,None,,None,,,None,None,None
+965,None,Exceptional property for sale,,None,S,16,,,None,None,,None,,,2,None,None
+966,Denderleeuw,House for sale,,None,O,None,,,None,None,,None,,,None,None,None
+967,Nismes,House for sale,,"€ 160,000",None,None,,,None,None,None,None,,,None,None,None
+968,None,House for sale,,"€ 245,000",F,7,,,None,None,,None,,,4,None,None
+969,NEERIJSE,House for sale,,"€ 445,000",None,None,,,None,None,,None,,,None,None,None
+970,Brugge,Mansion for sale,,"€ 519,000",None,None,,,None,None,None,None,,,None,None,None
+971,None,Apartment block for sale,,None,None,None,,,None,None,,None,,,None,None,None
+972,Aywaille,Apartment block for sale,None,None,F,None,,,None,None,,None,,,10,None,None
+973,Gent,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+974,Boom,House for sale,,"€ 315,000",None,None,,,None,None,,None,,,None,None,None
+975,PETIT-ENGHIEN,Villa for sale,,"€ 645,000",F,None,,,None,None,,None,,,5,None,None
+976,Ronse,House for sale,None,"€ 219,000",S,7,,,None,None,,None,,,1,None,None
+977,Roeselare,House for sale,None,"€ 225,000",F,None,,,None,None,,None,,,None,None,None
+978,"Lanaken , Smeermaas",House for sale,None,"€ 269,000",S,None,,,None,None,,None,,,4,None,None
+979,Ougrée,Villa for sale,None,"€ 289,000",S,None,,,None,None,,None,,,None,None,None
+980,Saint-Nicolas,Bungalow for sale,None,"€ 290,000",F,7,,,None,None,,None,,,None,None,None
+981,Ronse,Country cottage for sale,,None,None,None,,,None,None,None,None,,,None,None,None
+982,Arlon,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+983,None,Villa for sale,,None,S,None,,,None,None,,None,,,2,None,None
+984,None,Villa for sale,,"€ 595,000",F,None,,,None,None,,None,,,4,None,None
+985,Lievegem,House for sale,None,None,B,17,,,None,None,,None,,,4,None,None
+986,None,Villa for sale,,"€ 895,000",F,24,,,None,None,,None,,,3,None,None
+987,None,House for sale,,None,S,9,,,None,None,,None,,,1,None,None
+988,None,Mansion for sale,,None,F,None,,,None,None,,None,,,None,None,None
+989,None,Mansion for sale,,None,C,9,,,None,None,,None,,,None,None,None
+990,None,House for sale,,"€ 2,500,000",F,None,,,None,None,,None,,,None,None,None
+991,Bertogne,House for sale,,"€ 95,000",None,None,,,None,None,None,None,,,None,None,None
+992,Izegem,House for sale,,"€ 174,000",None,None,,,None,None,,None,,,None,None,None
+993,Blankenberge,House for sale,,"€ 195,000",None,None,,,None,None,,None,,,None,None,None
+994,Bruxelles,House for sale,,None,None,None,,,None,None,,None,,,None,None,None
+995,Zottegem,House for sale,,"€ 290,000",None,None,,,None,None,,None,,,None,None,None
+996,Blankenberge,House for sale,,"€ 339,000",None,None,,,None,None,,None,,,None,None,None
+997,Klerken,House for sale,,"€ 389,000",None,None,,,None,None,,None,,,None,None,None
+998,Braine-l'Alleud,Villa for sale,,"€ 450,000",None,None,,,None,None,,None,,,None,None,None
